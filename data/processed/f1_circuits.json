@@ -1,0 +1,1250 @@
+[
+  {
+    "doc_id": "circuit_adelaide",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Adelaide Street Circuit",
+    "content": "[Circuit] Adelaide Street Circuit\n[Circuit ID] adelaide\n[Location] Adelaide, Australia\n[Coordinates] latitude -34.9272, longitude 138.617\n[Reference URL] https://en.wikipedia.org/wiki/Adelaide_Street_Circuit\nAdelaide Street Circuit is a Formula 1 circuit located in Adelaide, Australia.",
+    "metadata": {
+      "circuit_id": "adelaide",
+      "circuit_name": "Adelaide Street Circuit",
+      "locality": "Adelaide",
+      "country": "Australia",
+      "lat": "-34.9272",
+      "long": "138.617",
+      "url": "https://en.wikipedia.org/wiki/Adelaide_Street_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_ain-diab",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Ain Diab",
+    "content": "[Circuit] Ain Diab\n[Circuit ID] ain-diab\n[Location] Casablanca, Morocco\n[Coordinates] latitude 33.5786, longitude -7.6875\n[Reference URL] https://en.wikipedia.org/wiki/Ain-Diab_Circuit\nAin Diab is a Formula 1 circuit located in Casablanca, Morocco.",
+    "metadata": {
+      "circuit_id": "ain-diab",
+      "circuit_name": "Ain Diab",
+      "locality": "Casablanca",
+      "country": "Morocco",
+      "lat": "33.5786",
+      "long": "-7.6875",
+      "url": "https://en.wikipedia.org/wiki/Ain-Diab_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_aintree",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Aintree",
+    "content": "[Circuit] Aintree\n[Circuit ID] aintree\n[Location] Liverpool, UK\n[Coordinates] latitude 53.4769, longitude -2.94056\n[Reference URL] https://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit\nAintree is a Formula 1 circuit located in Liverpool, UK.",
+    "metadata": {
+      "circuit_id": "aintree",
+      "circuit_name": "Aintree",
+      "locality": "Liverpool",
+      "country": "UK",
+      "lat": "53.4769",
+      "long": "-2.94056",
+      "url": "https://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_albert_park",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Albert Park Grand Prix Circuit",
+    "content": "[Circuit] Albert Park Grand Prix Circuit\n[Circuit ID] albert_park\n[Location] Melbourne, Australia\n[Coordinates] latitude -37.8497, longitude 144.968\n[Reference URL] https://en.wikipedia.org/wiki/Albert_Park_Circuit\nAlbert Park Grand Prix Circuit is a Formula 1 circuit located in Melbourne, Australia.",
+    "metadata": {
+      "circuit_id": "albert_park",
+      "circuit_name": "Albert Park Grand Prix Circuit",
+      "locality": "Melbourne",
+      "country": "Australia",
+      "lat": "-37.8497",
+      "long": "144.968",
+      "url": "https://en.wikipedia.org/wiki/Albert_Park_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_americas",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit of the Americas",
+    "content": "[Circuit] Circuit of the Americas\n[Circuit ID] americas\n[Location] Austin, USA\n[Coordinates] latitude 30.1328, longitude -97.6411\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_of_the_Americas\nCircuit of the Americas is a Formula 1 circuit located in Austin, USA.",
+    "metadata": {
+      "circuit_id": "americas",
+      "circuit_name": "Circuit of the Americas",
+      "locality": "Austin",
+      "country": "USA",
+      "lat": "30.1328",
+      "long": "-97.6411",
+      "url": "https://en.wikipedia.org/wiki/Circuit_of_the_Americas"
+    }
+  },
+  {
+    "doc_id": "circuit_anderstorp",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Scandinavian Raceway",
+    "content": "[Circuit] Scandinavian Raceway\n[Circuit ID] anderstorp\n[Location] Anderstorp, Sweden\n[Coordinates] latitude 57.2653, longitude 13.6042\n[Reference URL] https://en.wikipedia.org/wiki/Anderstorp_Raceway\nScandinavian Raceway is a Formula 1 circuit located in Anderstorp, Sweden.",
+    "metadata": {
+      "circuit_id": "anderstorp",
+      "circuit_name": "Scandinavian Raceway",
+      "locality": "Anderstorp",
+      "country": "Sweden",
+      "lat": "57.2653",
+      "long": "13.6042",
+      "url": "https://en.wikipedia.org/wiki/Anderstorp_Raceway"
+    }
+  },
+  {
+    "doc_id": "circuit_avus",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "AVUS",
+    "content": "[Circuit] AVUS\n[Circuit ID] avus\n[Location] Berlin, Germany\n[Coordinates] latitude 52.4806, longitude 13.2514\n[Reference URL] https://en.wikipedia.org/wiki/AVUS\nAVUS is a Formula 1 circuit located in Berlin, Germany.",
+    "metadata": {
+      "circuit_id": "avus",
+      "circuit_name": "AVUS",
+      "locality": "Berlin",
+      "country": "Germany",
+      "lat": "52.4806",
+      "long": "13.2514",
+      "url": "https://en.wikipedia.org/wiki/AVUS"
+    }
+  },
+  {
+    "doc_id": "circuit_bahrain",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Bahrain International Circuit",
+    "content": "[Circuit] Bahrain International Circuit\n[Circuit ID] bahrain\n[Location] Sakhir, Bahrain\n[Coordinates] latitude 26.0325, longitude 50.5106\n[Reference URL] https://en.wikipedia.org/wiki/Bahrain_International_Circuit\nBahrain International Circuit is a Formula 1 circuit located in Sakhir, Bahrain.",
+    "metadata": {
+      "circuit_id": "bahrain",
+      "circuit_name": "Bahrain International Circuit",
+      "locality": "Sakhir",
+      "country": "Bahrain",
+      "lat": "26.0325",
+      "long": "50.5106",
+      "url": "https://en.wikipedia.org/wiki/Bahrain_International_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_baku",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Baku City Circuit",
+    "content": "[Circuit] Baku City Circuit\n[Circuit ID] baku\n[Location] Baku, Azerbaijan\n[Coordinates] latitude 40.3725, longitude 49.8533\n[Reference URL] https://en.wikipedia.org/wiki/Baku_City_Circuit\nBaku City Circuit is a Formula 1 circuit located in Baku, Azerbaijan.",
+    "metadata": {
+      "circuit_id": "baku",
+      "circuit_name": "Baku City Circuit",
+      "locality": "Baku",
+      "country": "Azerbaijan",
+      "lat": "40.3725",
+      "long": "49.8533",
+      "url": "https://en.wikipedia.org/wiki/Baku_City_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_boavista",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuito da Boavista",
+    "content": "[Circuit] Circuito da Boavista\n[Circuit ID] boavista\n[Location] Oporto, Portugal\n[Coordinates] latitude 41.1705, longitude -8.67325\n[Reference URL] https://en.wikipedia.org/wiki/Circuito_da_Boavista\nCircuito da Boavista is a Formula 1 circuit located in Oporto, Portugal.",
+    "metadata": {
+      "circuit_id": "boavista",
+      "circuit_name": "Circuito da Boavista",
+      "locality": "Oporto",
+      "country": "Portugal",
+      "lat": "41.1705",
+      "long": "-8.67325",
+      "url": "https://en.wikipedia.org/wiki/Circuito_da_Boavista"
+    }
+  },
+  {
+    "doc_id": "circuit_brands_hatch",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Brands Hatch",
+    "content": "[Circuit] Brands Hatch\n[Circuit ID] brands_hatch\n[Location] Kent, UK\n[Coordinates] latitude 51.3569, longitude 0.263056\n[Reference URL] https://en.wikipedia.org/wiki/Brands_Hatch\nBrands Hatch is a Formula 1 circuit located in Kent, UK.",
+    "metadata": {
+      "circuit_id": "brands_hatch",
+      "circuit_name": "Brands Hatch",
+      "locality": "Kent",
+      "country": "UK",
+      "lat": "51.3569",
+      "long": "0.263056",
+      "url": "https://en.wikipedia.org/wiki/Brands_Hatch"
+    }
+  },
+  {
+    "doc_id": "circuit_bremgarten",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit Bremgarten",
+    "content": "[Circuit] Circuit Bremgarten\n[Circuit ID] bremgarten\n[Location] Bern, Switzerland\n[Coordinates] latitude 46.9589, longitude 7.40194\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_Bremgarten\nCircuit Bremgarten is a Formula 1 circuit located in Bern, Switzerland.",
+    "metadata": {
+      "circuit_id": "bremgarten",
+      "circuit_name": "Circuit Bremgarten",
+      "locality": "Bern",
+      "country": "Switzerland",
+      "lat": "46.9589",
+      "long": "7.40194",
+      "url": "https://en.wikipedia.org/wiki/Circuit_Bremgarten"
+    }
+  },
+  {
+    "doc_id": "circuit_buddh",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Buddh International Circuit",
+    "content": "[Circuit] Buddh International Circuit\n[Circuit ID] buddh\n[Location] Uttar Pradesh, India\n[Coordinates] latitude 28.3487, longitude 77.5331\n[Reference URL] https://en.wikipedia.org/wiki/Buddh_International_Circuit\nBuddh International Circuit is a Formula 1 circuit located in Uttar Pradesh, India.",
+    "metadata": {
+      "circuit_id": "buddh",
+      "circuit_name": "Buddh International Circuit",
+      "locality": "Uttar Pradesh",
+      "country": "India",
+      "lat": "28.3487",
+      "long": "77.5331",
+      "url": "https://en.wikipedia.org/wiki/Buddh_International_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_catalunya",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit de Barcelona-Catalunya",
+    "content": "[Circuit] Circuit de Barcelona-Catalunya\n[Circuit ID] catalunya\n[Location] Barcelona, Spain\n[Coordinates] latitude 41.57, longitude 2.26111\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya\nCircuit de Barcelona-Catalunya is a Formula 1 circuit located in Barcelona, Spain.",
+    "metadata": {
+      "circuit_id": "catalunya",
+      "circuit_name": "Circuit de Barcelona-Catalunya",
+      "locality": "Barcelona",
+      "country": "Spain",
+      "lat": "41.57",
+      "long": "2.26111",
+      "url": "https://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya"
+    }
+  },
+  {
+    "doc_id": "circuit_charade",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Charade Circuit",
+    "content": "[Circuit] Charade Circuit\n[Circuit ID] charade\n[Location] Clermont-Ferrand, France\n[Coordinates] latitude 45.7472, longitude 3.03889\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_de_Charade\nCharade Circuit is a Formula 1 circuit located in Clermont-Ferrand, France.",
+    "metadata": {
+      "circuit_id": "charade",
+      "circuit_name": "Charade Circuit",
+      "locality": "Clermont-Ferrand",
+      "country": "France",
+      "lat": "45.7472",
+      "long": "3.03889",
+      "url": "https://en.wikipedia.org/wiki/Circuit_de_Charade"
+    }
+  },
+  {
+    "doc_id": "circuit_dallas",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Fair Park",
+    "content": "[Circuit] Fair Park\n[Circuit ID] dallas\n[Location] Dallas, USA\n[Coordinates] latitude 32.7774, longitude -96.7587\n[Reference URL] https://en.wikipedia.org/wiki/Fair_Park\nFair Park is a Formula 1 circuit located in Dallas, USA.",
+    "metadata": {
+      "circuit_id": "dallas",
+      "circuit_name": "Fair Park",
+      "locality": "Dallas",
+      "country": "USA",
+      "lat": "32.7774",
+      "long": "-96.7587",
+      "url": "https://en.wikipedia.org/wiki/Fair_Park"
+    }
+  },
+  {
+    "doc_id": "circuit_detroit",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Detroit Street Circuit",
+    "content": "[Circuit] Detroit Street Circuit\n[Circuit ID] detroit\n[Location] Detroit, USA\n[Coordinates] latitude 42.3298, longitude -83.0401\n[Reference URL] https://en.wikipedia.org/wiki/Detroit_street_circuit\nDetroit Street Circuit is a Formula 1 circuit located in Detroit, USA.",
+    "metadata": {
+      "circuit_id": "detroit",
+      "circuit_name": "Detroit Street Circuit",
+      "locality": "Detroit",
+      "country": "USA",
+      "lat": "42.3298",
+      "long": "-83.0401",
+      "url": "https://en.wikipedia.org/wiki/Detroit_street_circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_dijon",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Dijon-Prenois",
+    "content": "[Circuit] Dijon-Prenois\n[Circuit ID] dijon\n[Location] Dijon, France\n[Coordinates] latitude 47.3625, longitude 4.89913\n[Reference URL] https://en.wikipedia.org/wiki/Dijon-Prenois\nDijon-Prenois is a Formula 1 circuit located in Dijon, France.",
+    "metadata": {
+      "circuit_id": "dijon",
+      "circuit_name": "Dijon-Prenois",
+      "locality": "Dijon",
+      "country": "France",
+      "lat": "47.3625",
+      "long": "4.89913",
+      "url": "https://en.wikipedia.org/wiki/Dijon-Prenois"
+    }
+  },
+  {
+    "doc_id": "circuit_donington",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Donington Park",
+    "content": "[Circuit] Donington Park\n[Circuit ID] donington\n[Location] Castle Donington, UK\n[Coordinates] latitude 52.8306, longitude -1.37528\n[Reference URL] https://en.wikipedia.org/wiki/Donington_Park\nDonington Park is a Formula 1 circuit located in Castle Donington, UK.",
+    "metadata": {
+      "circuit_id": "donington",
+      "circuit_name": "Donington Park",
+      "locality": "Castle Donington",
+      "country": "UK",
+      "lat": "52.8306",
+      "long": "-1.37528",
+      "url": "https://en.wikipedia.org/wiki/Donington_Park"
+    }
+  },
+  {
+    "doc_id": "circuit_essarts",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Rouen-Les-Essarts",
+    "content": "[Circuit] Rouen-Les-Essarts\n[Circuit ID] essarts\n[Location] Rouen, France\n[Coordinates] latitude 49.3306, longitude 1.00458\n[Reference URL] https://en.wikipedia.org/wiki/Rouen-Les-Essarts\nRouen-Les-Essarts is a Formula 1 circuit located in Rouen, France.",
+    "metadata": {
+      "circuit_id": "essarts",
+      "circuit_name": "Rouen-Les-Essarts",
+      "locality": "Rouen",
+      "country": "France",
+      "lat": "49.3306",
+      "long": "1.00458",
+      "url": "https://en.wikipedia.org/wiki/Rouen-Les-Essarts"
+    }
+  },
+  {
+    "doc_id": "circuit_estoril",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Autódromo do Estoril",
+    "content": "[Circuit] Autódromo do Estoril\n[Circuit ID] estoril\n[Location] Estoril, Portugal\n[Coordinates] latitude 38.7506, longitude -9.39417\n[Reference URL] https://en.wikipedia.org/wiki/Circuito_do_Estoril\nAutódromo do Estoril is a Formula 1 circuit located in Estoril, Portugal.",
+    "metadata": {
+      "circuit_id": "estoril",
+      "circuit_name": "Autódromo do Estoril",
+      "locality": "Estoril",
+      "country": "Portugal",
+      "lat": "38.7506",
+      "long": "-9.39417",
+      "url": "https://en.wikipedia.org/wiki/Circuito_do_Estoril"
+    }
+  },
+  {
+    "doc_id": "circuit_fuji",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Fuji Speedway",
+    "content": "[Circuit] Fuji Speedway\n[Circuit ID] fuji\n[Location] Oyama, Japan\n[Coordinates] latitude 35.3717, longitude 138.927\n[Reference URL] https://en.wikipedia.org/wiki/Fuji_Speedway\nFuji Speedway is a Formula 1 circuit located in Oyama, Japan.",
+    "metadata": {
+      "circuit_id": "fuji",
+      "circuit_name": "Fuji Speedway",
+      "locality": "Oyama",
+      "country": "Japan",
+      "lat": "35.3717",
+      "long": "138.927",
+      "url": "https://en.wikipedia.org/wiki/Fuji_Speedway"
+    }
+  },
+  {
+    "doc_id": "circuit_galvez",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Autódromo Juan y Oscar Gálvez",
+    "content": "[Circuit] Autódromo Juan y Oscar Gálvez\n[Circuit ID] galvez\n[Location] Buenos Aires, Argentina\n[Coordinates] latitude -34.6943, longitude -58.4593\n[Reference URL] https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez\nAutódromo Juan y Oscar Gálvez is a Formula 1 circuit located in Buenos Aires, Argentina.",
+    "metadata": {
+      "circuit_id": "galvez",
+      "circuit_name": "Autódromo Juan y Oscar Gálvez",
+      "locality": "Buenos Aires",
+      "country": "Argentina",
+      "lat": "-34.6943",
+      "long": "-58.4593",
+      "url": "https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez"
+    }
+  },
+  {
+    "doc_id": "circuit_george",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Prince George Circuit",
+    "content": "[Circuit] Prince George Circuit\n[Circuit ID] george\n[Location] Eastern Cape Province, South Africa\n[Coordinates] latitude -33.0486, longitude 27.8736\n[Reference URL] https://en.wikipedia.org/wiki/Prince_George_Circuit\nPrince George Circuit is a Formula 1 circuit located in Eastern Cape Province, South Africa.",
+    "metadata": {
+      "circuit_id": "george",
+      "circuit_name": "Prince George Circuit",
+      "locality": "Eastern Cape Province",
+      "country": "South Africa",
+      "lat": "-33.0486",
+      "long": "27.8736",
+      "url": "https://en.wikipedia.org/wiki/Prince_George_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_hockenheimring",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Hockenheimring",
+    "content": "[Circuit] Hockenheimring\n[Circuit ID] hockenheimring\n[Location] Hockenheim, Germany\n[Coordinates] latitude 49.3278, longitude 8.56583\n[Reference URL] https://en.wikipedia.org/wiki/Hockenheimring\nHockenheimring is a Formula 1 circuit located in Hockenheim, Germany.",
+    "metadata": {
+      "circuit_id": "hockenheimring",
+      "circuit_name": "Hockenheimring",
+      "locality": "Hockenheim",
+      "country": "Germany",
+      "lat": "49.3278",
+      "long": "8.56583",
+      "url": "https://en.wikipedia.org/wiki/Hockenheimring"
+    }
+  },
+  {
+    "doc_id": "circuit_hungaroring",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Hungaroring",
+    "content": "[Circuit] Hungaroring\n[Circuit ID] hungaroring\n[Location] Budapest, Hungary\n[Coordinates] latitude 47.5789, longitude 19.2486\n[Reference URL] https://en.wikipedia.org/wiki/Hungaroring\nHungaroring is a Formula 1 circuit located in Budapest, Hungary.",
+    "metadata": {
+      "circuit_id": "hungaroring",
+      "circuit_name": "Hungaroring",
+      "locality": "Budapest",
+      "country": "Hungary",
+      "lat": "47.5789",
+      "long": "19.2486",
+      "url": "https://en.wikipedia.org/wiki/Hungaroring"
+    }
+  },
+  {
+    "doc_id": "circuit_imola",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Autodromo Enzo e Dino Ferrari",
+    "content": "[Circuit] Autodromo Enzo e Dino Ferrari\n[Circuit ID] imola\n[Location] Imola, Italy\n[Coordinates] latitude 44.3439, longitude 11.7167\n[Reference URL] https://en.wikipedia.org/wiki/Imola_Circuit\nAutodromo Enzo e Dino Ferrari is a Formula 1 circuit located in Imola, Italy.",
+    "metadata": {
+      "circuit_id": "imola",
+      "circuit_name": "Autodromo Enzo e Dino Ferrari",
+      "locality": "Imola",
+      "country": "Italy",
+      "lat": "44.3439",
+      "long": "11.7167",
+      "url": "https://en.wikipedia.org/wiki/Imola_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_indianapolis",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Indianapolis Motor Speedway",
+    "content": "[Circuit] Indianapolis Motor Speedway\n[Circuit ID] indianapolis\n[Location] Indianapolis, USA\n[Coordinates] latitude 39.795, longitude -86.2347\n[Reference URL] https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway\nIndianapolis Motor Speedway is a Formula 1 circuit located in Indianapolis, USA.",
+    "metadata": {
+      "circuit_id": "indianapolis",
+      "circuit_name": "Indianapolis Motor Speedway",
+      "locality": "Indianapolis",
+      "country": "USA",
+      "lat": "39.795",
+      "long": "-86.2347",
+      "url": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway"
+    }
+  },
+  {
+    "doc_id": "circuit_interlagos",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Autódromo José Carlos Pace",
+    "content": "[Circuit] Autódromo José Carlos Pace\n[Circuit ID] interlagos\n[Location] São Paulo, Brazil\n[Coordinates] latitude -23.7036, longitude -46.6997\n[Reference URL] https://en.wikipedia.org/wiki/Interlagos_Circuit\nAutódromo José Carlos Pace is a Formula 1 circuit located in São Paulo, Brazil.",
+    "metadata": {
+      "circuit_id": "interlagos",
+      "circuit_name": "Autódromo José Carlos Pace",
+      "locality": "São Paulo",
+      "country": "Brazil",
+      "lat": "-23.7036",
+      "long": "-46.6997",
+      "url": "https://en.wikipedia.org/wiki/Interlagos_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_istanbul",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Istanbul Park",
+    "content": "[Circuit] Istanbul Park\n[Circuit ID] istanbul\n[Location] Istanbul, Turkey\n[Coordinates] latitude 40.9517, longitude 29.405\n[Reference URL] https://en.wikipedia.org/wiki/Istanbul_Park\nIstanbul Park is a Formula 1 circuit located in Istanbul, Turkey.",
+    "metadata": {
+      "circuit_id": "istanbul",
+      "circuit_name": "Istanbul Park",
+      "locality": "Istanbul",
+      "country": "Turkey",
+      "lat": "40.9517",
+      "long": "29.405",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Park"
+    }
+  },
+  {
+    "doc_id": "circuit_jacarepagua",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Autódromo Internacional Nelson Piquet",
+    "content": "[Circuit] Autódromo Internacional Nelson Piquet\n[Circuit ID] jacarepagua\n[Location] Rio de Janeiro, Brazil\n[Coordinates] latitude -22.9756, longitude -43.395\n[Reference URL] https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet\nAutódromo Internacional Nelson Piquet is a Formula 1 circuit located in Rio de Janeiro, Brazil.",
+    "metadata": {
+      "circuit_id": "jacarepagua",
+      "circuit_name": "Autódromo Internacional Nelson Piquet",
+      "locality": "Rio de Janeiro",
+      "country": "Brazil",
+      "lat": "-22.9756",
+      "long": "-43.395",
+      "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet"
+    }
+  },
+  {
+    "doc_id": "circuit_jarama",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Jarama",
+    "content": "[Circuit] Jarama\n[Circuit ID] jarama\n[Location] Madrid, Spain\n[Coordinates] latitude 40.6171, longitude -3.58558\n[Reference URL] https://en.wikipedia.org/wiki/Circuito_del_Jarama\nJarama is a Formula 1 circuit located in Madrid, Spain.",
+    "metadata": {
+      "circuit_id": "jarama",
+      "circuit_name": "Jarama",
+      "locality": "Madrid",
+      "country": "Spain",
+      "lat": "40.6171",
+      "long": "-3.58558",
+      "url": "https://en.wikipedia.org/wiki/Circuito_del_Jarama"
+    }
+  },
+  {
+    "doc_id": "circuit_jeddah",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Jeddah Corniche Circuit",
+    "content": "[Circuit] Jeddah Corniche Circuit\n[Circuit ID] jeddah\n[Location] Jeddah, Saudi Arabia\n[Coordinates] latitude 21.6319, longitude 39.1044\n[Reference URL] https://en.wikipedia.org/wiki/Jeddah_Corniche_Circuit\nJeddah Corniche Circuit is a Formula 1 circuit located in Jeddah, Saudi Arabia.",
+    "metadata": {
+      "circuit_id": "jeddah",
+      "circuit_name": "Jeddah Corniche Circuit",
+      "locality": "Jeddah",
+      "country": "Saudi Arabia",
+      "lat": "21.6319",
+      "long": "39.1044",
+      "url": "https://en.wikipedia.org/wiki/Jeddah_Corniche_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_jerez",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuito de Jerez",
+    "content": "[Circuit] Circuito de Jerez\n[Circuit ID] jerez\n[Location] Jerez de la Frontera, Spain\n[Coordinates] latitude 36.7083, longitude -6.03417\n[Reference URL] https://en.wikipedia.org/wiki/Circuito_de_Jerez\nCircuito de Jerez is a Formula 1 circuit located in Jerez de la Frontera, Spain.",
+    "metadata": {
+      "circuit_id": "jerez",
+      "circuit_name": "Circuito de Jerez",
+      "locality": "Jerez de la Frontera",
+      "country": "Spain",
+      "lat": "36.7083",
+      "long": "-6.03417",
+      "url": "https://en.wikipedia.org/wiki/Circuito_de_Jerez"
+    }
+  },
+  {
+    "doc_id": "circuit_kyalami",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Kyalami",
+    "content": "[Circuit] Kyalami\n[Circuit ID] kyalami\n[Location] Midrand, South Africa\n[Coordinates] latitude -25.9894, longitude 28.0767\n[Reference URL] https://en.wikipedia.org/wiki/Kyalami\nKyalami is a Formula 1 circuit located in Midrand, South Africa.",
+    "metadata": {
+      "circuit_id": "kyalami",
+      "circuit_name": "Kyalami",
+      "locality": "Midrand",
+      "country": "South Africa",
+      "lat": "-25.9894",
+      "long": "28.0767",
+      "url": "https://en.wikipedia.org/wiki/Kyalami"
+    }
+  },
+  {
+    "doc_id": "circuit_las_vegas",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Las Vegas Street Circuit",
+    "content": "[Circuit] Las Vegas Street Circuit\n[Circuit ID] las_vegas\n[Location] Nevada, USA\n[Coordinates] latitude 36.1162, longitude -115.174\n[Reference URL] https://en.wikipedia.org/wiki/Las_Vegas_Strip_Circuit\nLas Vegas Street Circuit is a Formula 1 circuit located in Nevada, USA.",
+    "metadata": {
+      "circuit_id": "las_vegas",
+      "circuit_name": "Las Vegas Street Circuit",
+      "locality": "Nevada",
+      "country": "USA",
+      "lat": "36.1162",
+      "long": "-115.174",
+      "url": "https://en.wikipedia.org/wiki/Las_Vegas_Strip_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_lemans",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Le Mans",
+    "content": "[Circuit] Le Mans\n[Circuit ID] lemans\n[Location] Le Mans, France\n[Coordinates] latitude 47.95, longitude 0.224231\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe#Bugatti_Circuit\nLe Mans is a Formula 1 circuit located in Le Mans, France.",
+    "metadata": {
+      "circuit_id": "lemans",
+      "circuit_name": "Le Mans",
+      "locality": "Le Mans",
+      "country": "France",
+      "lat": "47.95",
+      "long": "0.224231",
+      "url": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe#Bugatti_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_long_beach",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Long Beach",
+    "content": "[Circuit] Long Beach\n[Circuit ID] long_beach\n[Location] California, USA\n[Coordinates] latitude 33.7651, longitude -118.189\n[Reference URL] https://en.wikipedia.org/wiki/Long_Beach,_California\nLong Beach is a Formula 1 circuit located in California, USA.",
+    "metadata": {
+      "circuit_id": "long_beach",
+      "circuit_name": "Long Beach",
+      "locality": "California",
+      "country": "USA",
+      "lat": "33.7651",
+      "long": "-118.189",
+      "url": "https://en.wikipedia.org/wiki/Long_Beach,_California"
+    }
+  },
+  {
+    "doc_id": "circuit_losail",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Losail International Circuit",
+    "content": "[Circuit] Losail International Circuit\n[Circuit ID] losail\n[Location] Lusail, Qatar\n[Coordinates] latitude 25.49, longitude 51.4542\n[Reference URL] https://en.wikipedia.org/wiki/Lusail_International_Circuit\nLosail International Circuit is a Formula 1 circuit located in Lusail, Qatar.",
+    "metadata": {
+      "circuit_id": "losail",
+      "circuit_name": "Losail International Circuit",
+      "locality": "Lusail",
+      "country": "Qatar",
+      "lat": "25.49",
+      "long": "51.4542",
+      "url": "https://en.wikipedia.org/wiki/Lusail_International_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_madring",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Madring",
+    "content": "[Circuit] Madring\n[Circuit ID] madring\n[Location] Madrid, Spain\n[Coordinates] latitude 40.46528, longitude -3.61528\n[Reference URL] https://en.wikipedia.org/wiki/Madring\nMadring is a Formula 1 circuit located in Madrid, Spain.",
+    "metadata": {
+      "circuit_id": "madring",
+      "circuit_name": "Madring",
+      "locality": "Madrid",
+      "country": "Spain",
+      "lat": "40.46528",
+      "long": "-3.61528",
+      "url": "https://en.wikipedia.org/wiki/Madring"
+    }
+  },
+  {
+    "doc_id": "circuit_magny_cours",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit de Nevers Magny-Cours",
+    "content": "[Circuit] Circuit de Nevers Magny-Cours\n[Circuit ID] magny_cours\n[Location] Magny Cours, France\n[Coordinates] latitude 46.8642, longitude 3.16361\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours\nCircuit de Nevers Magny-Cours is a Formula 1 circuit located in Magny Cours, France.",
+    "metadata": {
+      "circuit_id": "magny_cours",
+      "circuit_name": "Circuit de Nevers Magny-Cours",
+      "locality": "Magny Cours",
+      "country": "France",
+      "lat": "46.8642",
+      "long": "3.16361",
+      "url": "https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours"
+    }
+  },
+  {
+    "doc_id": "circuit_marina_bay",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Marina Bay Street Circuit",
+    "content": "[Circuit] Marina Bay Street Circuit\n[Circuit ID] marina_bay\n[Location] Marina Bay, Singapore\n[Coordinates] latitude 1.2914, longitude 103.864\n[Reference URL] https://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit\nMarina Bay Street Circuit is a Formula 1 circuit located in Marina Bay, Singapore.",
+    "metadata": {
+      "circuit_id": "marina_bay",
+      "circuit_name": "Marina Bay Street Circuit",
+      "locality": "Marina Bay",
+      "country": "Singapore",
+      "lat": "1.2914",
+      "long": "103.864",
+      "url": "https://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_miami",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Miami International Autodrome",
+    "content": "[Circuit] Miami International Autodrome\n[Circuit ID] miami\n[Location] Miami, USA\n[Coordinates] latitude 25.9581, longitude -80.2389\n[Reference URL] https://en.wikipedia.org/wiki/Miami_International_Autodrome\nMiami International Autodrome is a Formula 1 circuit located in Miami, USA.",
+    "metadata": {
+      "circuit_id": "miami",
+      "circuit_name": "Miami International Autodrome",
+      "locality": "Miami",
+      "country": "USA",
+      "lat": "25.9581",
+      "long": "-80.2389",
+      "url": "https://en.wikipedia.org/wiki/Miami_International_Autodrome"
+    }
+  },
+  {
+    "doc_id": "circuit_monaco",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit de Monaco",
+    "content": "[Circuit] Circuit de Monaco\n[Circuit ID] monaco\n[Location] Monte Carlo, Monaco\n[Coordinates] latitude 43.7347, longitude 7.42056\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_de_Monaco\nCircuit de Monaco is a Formula 1 circuit located in Monte Carlo, Monaco.",
+    "metadata": {
+      "circuit_id": "monaco",
+      "circuit_name": "Circuit de Monaco",
+      "locality": "Monte Carlo",
+      "country": "Monaco",
+      "lat": "43.7347",
+      "long": "7.42056",
+      "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco"
+    }
+  },
+  {
+    "doc_id": "circuit_monsanto",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Monsanto Park Circuit",
+    "content": "[Circuit] Monsanto Park Circuit\n[Circuit ID] monsanto\n[Location] Lisbon, Portugal\n[Coordinates] latitude 38.7197, longitude -9.20306\n[Reference URL] https://en.wikipedia.org/wiki/Circuito_de_Monsanto\nMonsanto Park Circuit is a Formula 1 circuit located in Lisbon, Portugal.",
+    "metadata": {
+      "circuit_id": "monsanto",
+      "circuit_name": "Monsanto Park Circuit",
+      "locality": "Lisbon",
+      "country": "Portugal",
+      "lat": "38.7197",
+      "long": "-9.20306",
+      "url": "https://en.wikipedia.org/wiki/Circuito_de_Monsanto"
+    }
+  },
+  {
+    "doc_id": "circuit_montjuic",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Montjuïc",
+    "content": "[Circuit] Montjuïc\n[Circuit ID] montjuic\n[Location] Barcelona, Spain\n[Coordinates] latitude 41.3664, longitude 2.15167\n[Reference URL] https://en.wikipedia.org/wiki/Montju%C3%AFc_circuit\nMontjuïc is a Formula 1 circuit located in Barcelona, Spain.",
+    "metadata": {
+      "circuit_id": "montjuic",
+      "circuit_name": "Montjuïc",
+      "locality": "Barcelona",
+      "country": "Spain",
+      "lat": "41.3664",
+      "long": "2.15167",
+      "url": "https://en.wikipedia.org/wiki/Montju%C3%AFc_circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_monza",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Autodromo Nazionale di Monza",
+    "content": "[Circuit] Autodromo Nazionale di Monza\n[Circuit ID] monza\n[Location] Monza, Italy\n[Coordinates] latitude 45.6156, longitude 9.28111\n[Reference URL] https://en.wikipedia.org/wiki/Monza_Circuit\nAutodromo Nazionale di Monza is a Formula 1 circuit located in Monza, Italy.",
+    "metadata": {
+      "circuit_id": "monza",
+      "circuit_name": "Autodromo Nazionale di Monza",
+      "locality": "Monza",
+      "country": "Italy",
+      "lat": "45.6156",
+      "long": "9.28111",
+      "url": "https://en.wikipedia.org/wiki/Monza_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_mosport",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Mosport International Raceway",
+    "content": "[Circuit] Mosport International Raceway\n[Circuit ID] mosport\n[Location] Ontario, Canada\n[Coordinates] latitude 44.0481, longitude -78.6756\n[Reference URL] https://en.wikipedia.org/wiki/Canadian_Tire_Motorsport_Park\nMosport International Raceway is a Formula 1 circuit located in Ontario, Canada.",
+    "metadata": {
+      "circuit_id": "mosport",
+      "circuit_name": "Mosport International Raceway",
+      "locality": "Ontario",
+      "country": "Canada",
+      "lat": "44.0481",
+      "long": "-78.6756",
+      "url": "https://en.wikipedia.org/wiki/Canadian_Tire_Motorsport_Park"
+    }
+  },
+  {
+    "doc_id": "circuit_mugello",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Autodromo Internazionale del Mugello",
+    "content": "[Circuit] Autodromo Internazionale del Mugello\n[Circuit ID] mugello\n[Location] Mugello, Italy\n[Coordinates] latitude 43.9975, longitude 11.3719\n[Reference URL] https://en.wikipedia.org/wiki/Mugello_Circuit\nAutodromo Internazionale del Mugello is a Formula 1 circuit located in Mugello, Italy.",
+    "metadata": {
+      "circuit_id": "mugello",
+      "circuit_name": "Autodromo Internazionale del Mugello",
+      "locality": "Mugello",
+      "country": "Italy",
+      "lat": "43.9975",
+      "long": "11.3719",
+      "url": "https://en.wikipedia.org/wiki/Mugello_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_nivelles",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Nivelles-Baulers",
+    "content": "[Circuit] Nivelles-Baulers\n[Circuit ID] nivelles\n[Location] Brussels, Belgium\n[Coordinates] latitude 50.6211, longitude 4.32694\n[Reference URL] https://en.wikipedia.org/wiki/Nivelles-Baulers\nNivelles-Baulers is a Formula 1 circuit located in Brussels, Belgium.",
+    "metadata": {
+      "circuit_id": "nivelles",
+      "circuit_name": "Nivelles-Baulers",
+      "locality": "Brussels",
+      "country": "Belgium",
+      "lat": "50.6211",
+      "long": "4.32694",
+      "url": "https://en.wikipedia.org/wiki/Nivelles-Baulers"
+    }
+  },
+  {
+    "doc_id": "circuit_nurburgring",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Nürburgring",
+    "content": "[Circuit] Nürburgring\n[Circuit ID] nurburgring\n[Location] Nürburg, Germany\n[Coordinates] latitude 50.3356, longitude 6.9475\n[Reference URL] https://en.wikipedia.org/wiki/N%C3%BCrburgring\nNürburgring is a Formula 1 circuit located in Nürburg, Germany.",
+    "metadata": {
+      "circuit_id": "nurburgring",
+      "circuit_name": "Nürburgring",
+      "locality": "Nürburg",
+      "country": "Germany",
+      "lat": "50.3356",
+      "long": "6.9475",
+      "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring"
+    }
+  },
+  {
+    "doc_id": "circuit_okayama",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Okayama International Circuit",
+    "content": "[Circuit] Okayama International Circuit\n[Circuit ID] okayama\n[Location] Okayama, Japan\n[Coordinates] latitude 34.915, longitude 134.221\n[Reference URL] https://en.wikipedia.org/wiki/Okayama_International_Circuit\nOkayama International Circuit is a Formula 1 circuit located in Okayama, Japan.",
+    "metadata": {
+      "circuit_id": "okayama",
+      "circuit_name": "Okayama International Circuit",
+      "locality": "Okayama",
+      "country": "Japan",
+      "lat": "34.915",
+      "long": "134.221",
+      "url": "https://en.wikipedia.org/wiki/Okayama_International_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_pedralbes",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit de Pedralbes",
+    "content": "[Circuit] Circuit de Pedralbes\n[Circuit ID] pedralbes\n[Location] Barcelona, Spain\n[Coordinates] latitude 41.3903, longitude 2.11667\n[Reference URL] https://en.wikipedia.org/wiki/Pedralbes_Circuit\nCircuit de Pedralbes is a Formula 1 circuit located in Barcelona, Spain.",
+    "metadata": {
+      "circuit_id": "pedralbes",
+      "circuit_name": "Circuit de Pedralbes",
+      "locality": "Barcelona",
+      "country": "Spain",
+      "lat": "41.3903",
+      "long": "2.11667",
+      "url": "https://en.wikipedia.org/wiki/Pedralbes_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_pescara",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Pescara Circuit",
+    "content": "[Circuit] Pescara Circuit\n[Circuit ID] pescara\n[Location] Pescara, Italy\n[Coordinates] latitude 42.475, longitude 14.1508\n[Reference URL] https://en.wikipedia.org/wiki/Pescara_Circuit\nPescara Circuit is a Formula 1 circuit located in Pescara, Italy.",
+    "metadata": {
+      "circuit_id": "pescara",
+      "circuit_name": "Pescara Circuit",
+      "locality": "Pescara",
+      "country": "Italy",
+      "lat": "42.475",
+      "long": "14.1508",
+      "url": "https://en.wikipedia.org/wiki/Pescara_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_phoenix",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Phoenix street circuit",
+    "content": "[Circuit] Phoenix street circuit\n[Circuit ID] phoenix\n[Location] Phoenix, USA\n[Coordinates] latitude 33.4479, longitude -112.075\n[Reference URL] https://en.wikipedia.org/wiki/Phoenix_street_circuit\nPhoenix street circuit is a Formula 1 circuit located in Phoenix, USA.",
+    "metadata": {
+      "circuit_id": "phoenix",
+      "circuit_name": "Phoenix street circuit",
+      "locality": "Phoenix",
+      "country": "USA",
+      "lat": "33.4479",
+      "long": "-112.075",
+      "url": "https://en.wikipedia.org/wiki/Phoenix_street_circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_portimao",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Autódromo Internacional do Algarve",
+    "content": "[Circuit] Autódromo Internacional do Algarve\n[Circuit ID] portimao\n[Location] Portimão, Portugal\n[Coordinates] latitude 37.227, longitude -8.6267\n[Reference URL] https://en.wikipedia.org/wiki/Algarve_International_Circuit\nAutódromo Internacional do Algarve is a Formula 1 circuit located in Portimão, Portugal.",
+    "metadata": {
+      "circuit_id": "portimao",
+      "circuit_name": "Autódromo Internacional do Algarve",
+      "locality": "Portimão",
+      "country": "Portugal",
+      "lat": "37.227",
+      "long": "-8.6267",
+      "url": "https://en.wikipedia.org/wiki/Algarve_International_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_red_bull_ring",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Red Bull Ring",
+    "content": "[Circuit] Red Bull Ring\n[Circuit ID] red_bull_ring\n[Location] Spielberg, Austria\n[Coordinates] latitude 47.2197, longitude 14.7647\n[Reference URL] https://en.wikipedia.org/wiki/Red_Bull_Ring\nRed Bull Ring is a Formula 1 circuit located in Spielberg, Austria.",
+    "metadata": {
+      "circuit_id": "red_bull_ring",
+      "circuit_name": "Red Bull Ring",
+      "locality": "Spielberg",
+      "country": "Austria",
+      "lat": "47.2197",
+      "long": "14.7647",
+      "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring"
+    }
+  },
+  {
+    "doc_id": "circuit_reims",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Reims-Gueux",
+    "content": "[Circuit] Reims-Gueux\n[Circuit ID] reims\n[Location] Reims, France\n[Coordinates] latitude 49.2542, longitude 3.93083\n[Reference URL] https://en.wikipedia.org/wiki/Reims-Gueux\nReims-Gueux is a Formula 1 circuit located in Reims, France.",
+    "metadata": {
+      "circuit_id": "reims",
+      "circuit_name": "Reims-Gueux",
+      "locality": "Reims",
+      "country": "France",
+      "lat": "49.2542",
+      "long": "3.93083",
+      "url": "https://en.wikipedia.org/wiki/Reims-Gueux"
+    }
+  },
+  {
+    "doc_id": "circuit_ricard",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit Paul Ricard",
+    "content": "[Circuit] Circuit Paul Ricard\n[Circuit ID] ricard\n[Location] Le Castellet, France\n[Coordinates] latitude 43.2506, longitude 5.79167\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_Paul_Ricard\nCircuit Paul Ricard is a Formula 1 circuit located in Le Castellet, France.",
+    "metadata": {
+      "circuit_id": "ricard",
+      "circuit_name": "Circuit Paul Ricard",
+      "locality": "Le Castellet",
+      "country": "France",
+      "lat": "43.2506",
+      "long": "5.79167",
+      "url": "https://en.wikipedia.org/wiki/Circuit_Paul_Ricard"
+    }
+  },
+  {
+    "doc_id": "circuit_riverside",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Riverside International Raceway",
+    "content": "[Circuit] Riverside International Raceway\n[Circuit ID] riverside\n[Location] California, USA\n[Coordinates] latitude 33.937, longitude -117.273\n[Reference URL] https://en.wikipedia.org/wiki/Riverside_International_Raceway\nRiverside International Raceway is a Formula 1 circuit located in California, USA.",
+    "metadata": {
+      "circuit_id": "riverside",
+      "circuit_name": "Riverside International Raceway",
+      "locality": "California",
+      "country": "USA",
+      "lat": "33.937",
+      "long": "-117.273",
+      "url": "https://en.wikipedia.org/wiki/Riverside_International_Raceway"
+    }
+  },
+  {
+    "doc_id": "circuit_rodriguez",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Autódromo Hermanos Rodríguez",
+    "content": "[Circuit] Autódromo Hermanos Rodríguez\n[Circuit ID] rodriguez\n[Location] Mexico City, Mexico\n[Coordinates] latitude 19.4042, longitude -99.0907\n[Reference URL] https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez\nAutódromo Hermanos Rodríguez is a Formula 1 circuit located in Mexico City, Mexico.",
+    "metadata": {
+      "circuit_id": "rodriguez",
+      "circuit_name": "Autódromo Hermanos Rodríguez",
+      "locality": "Mexico City",
+      "country": "Mexico",
+      "lat": "19.4042",
+      "long": "-99.0907",
+      "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez"
+    }
+  },
+  {
+    "doc_id": "circuit_sebring",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Sebring International Raceway",
+    "content": "[Circuit] Sebring International Raceway\n[Circuit ID] sebring\n[Location] Florida, USA\n[Coordinates] latitude 27.4547, longitude -81.3483\n[Reference URL] https://en.wikipedia.org/wiki/Sebring_International_Raceway\nSebring International Raceway is a Formula 1 circuit located in Florida, USA.",
+    "metadata": {
+      "circuit_id": "sebring",
+      "circuit_name": "Sebring International Raceway",
+      "locality": "Florida",
+      "country": "USA",
+      "lat": "27.4547",
+      "long": "-81.3483",
+      "url": "https://en.wikipedia.org/wiki/Sebring_International_Raceway"
+    }
+  },
+  {
+    "doc_id": "circuit_sepang",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Sepang International Circuit",
+    "content": "[Circuit] Sepang International Circuit\n[Circuit ID] sepang\n[Location] Kuala Lumpur, Malaysia\n[Coordinates] latitude 2.76083, longitude 101.738\n[Reference URL] https://en.wikipedia.org/wiki/Sepang_International_Circuit\nSepang International Circuit is a Formula 1 circuit located in Kuala Lumpur, Malaysia.",
+    "metadata": {
+      "circuit_id": "sepang",
+      "circuit_name": "Sepang International Circuit",
+      "locality": "Kuala Lumpur",
+      "country": "Malaysia",
+      "lat": "2.76083",
+      "long": "101.738",
+      "url": "https://en.wikipedia.org/wiki/Sepang_International_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_shanghai",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Shanghai International Circuit",
+    "content": "[Circuit] Shanghai International Circuit\n[Circuit ID] shanghai\n[Location] Shanghai, China\n[Coordinates] latitude 31.3389, longitude 121.22\n[Reference URL] https://en.wikipedia.org/wiki/Shanghai_International_Circuit\nShanghai International Circuit is a Formula 1 circuit located in Shanghai, China.",
+    "metadata": {
+      "circuit_id": "shanghai",
+      "circuit_name": "Shanghai International Circuit",
+      "locality": "Shanghai",
+      "country": "China",
+      "lat": "31.3389",
+      "long": "121.22",
+      "url": "https://en.wikipedia.org/wiki/Shanghai_International_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_silverstone",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Silverstone Circuit",
+    "content": "[Circuit] Silverstone Circuit\n[Circuit ID] silverstone\n[Location] Silverstone, UK\n[Coordinates] latitude 52.0786, longitude -1.01694\n[Reference URL] https://en.wikipedia.org/wiki/Silverstone_Circuit\nSilverstone Circuit is a Formula 1 circuit located in Silverstone, UK.",
+    "metadata": {
+      "circuit_id": "silverstone",
+      "circuit_name": "Silverstone Circuit",
+      "locality": "Silverstone",
+      "country": "UK",
+      "lat": "52.0786",
+      "long": "-1.01694",
+      "url": "https://en.wikipedia.org/wiki/Silverstone_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_sochi",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Sochi Autodrom",
+    "content": "[Circuit] Sochi Autodrom\n[Circuit ID] sochi\n[Location] Sochi, Russia\n[Coordinates] latitude 43.4057, longitude 39.9578\n[Reference URL] https://en.wikipedia.org/wiki/Sochi_Autodrom\nSochi Autodrom is a Formula 1 circuit located in Sochi, Russia.",
+    "metadata": {
+      "circuit_id": "sochi",
+      "circuit_name": "Sochi Autodrom",
+      "locality": "Sochi",
+      "country": "Russia",
+      "lat": "43.4057",
+      "long": "39.9578",
+      "url": "https://en.wikipedia.org/wiki/Sochi_Autodrom"
+    }
+  },
+  {
+    "doc_id": "circuit_spa",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit de Spa-Francorchamps",
+    "content": "[Circuit] Circuit de Spa-Francorchamps\n[Circuit ID] spa\n[Location] Spa, Belgium\n[Coordinates] latitude 50.4372, longitude 5.97139\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps\nCircuit de Spa-Francorchamps is a Formula 1 circuit located in Spa, Belgium.",
+    "metadata": {
+      "circuit_id": "spa",
+      "circuit_name": "Circuit de Spa-Francorchamps",
+      "locality": "Spa",
+      "country": "Belgium",
+      "lat": "50.4372",
+      "long": "5.97139",
+      "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps"
+    }
+  },
+  {
+    "doc_id": "circuit_suzuka",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Suzuka Circuit",
+    "content": "[Circuit] Suzuka Circuit\n[Circuit ID] suzuka\n[Location] Suzuka, Japan\n[Coordinates] latitude 34.8431, longitude 136.541\n[Reference URL] https://en.wikipedia.org/wiki/Suzuka_International_Racing_Course\nSuzuka Circuit is a Formula 1 circuit located in Suzuka, Japan.",
+    "metadata": {
+      "circuit_id": "suzuka",
+      "circuit_name": "Suzuka Circuit",
+      "locality": "Suzuka",
+      "country": "Japan",
+      "lat": "34.8431",
+      "long": "136.541",
+      "url": "https://en.wikipedia.org/wiki/Suzuka_International_Racing_Course"
+    }
+  },
+  {
+    "doc_id": "circuit_tremblant",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit Mont-Tremblant",
+    "content": "[Circuit] Circuit Mont-Tremblant\n[Circuit ID] tremblant\n[Location] Quebec, Canada\n[Coordinates] latitude 46.1877, longitude -74.6099\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_Mont-Tremblant\nCircuit Mont-Tremblant is a Formula 1 circuit located in Quebec, Canada.",
+    "metadata": {
+      "circuit_id": "tremblant",
+      "circuit_name": "Circuit Mont-Tremblant",
+      "locality": "Quebec",
+      "country": "Canada",
+      "lat": "46.1877",
+      "long": "-74.6099",
+      "url": "https://en.wikipedia.org/wiki/Circuit_Mont-Tremblant"
+    }
+  },
+  {
+    "doc_id": "circuit_valencia",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Valencia Street Circuit",
+    "content": "[Circuit] Valencia Street Circuit\n[Circuit ID] valencia\n[Location] Valencia, Spain\n[Coordinates] latitude 39.4589, longitude -0.331667\n[Reference URL] https://en.wikipedia.org/wiki/Valencia_Street_Circuit\nValencia Street Circuit is a Formula 1 circuit located in Valencia, Spain.",
+    "metadata": {
+      "circuit_id": "valencia",
+      "circuit_name": "Valencia Street Circuit",
+      "locality": "Valencia",
+      "country": "Spain",
+      "lat": "39.4589",
+      "long": "-0.331667",
+      "url": "https://en.wikipedia.org/wiki/Valencia_Street_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_vegas",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Las Vegas Strip Street Circuit",
+    "content": "[Circuit] Las Vegas Strip Street Circuit\n[Circuit ID] vegas\n[Location] Las Vegas, USA\n[Coordinates] latitude 36.1147, longitude -115.173\n[Reference URL] https://en.wikipedia.org/wiki/Las_Vegas_Grand_Prix#Circuit\nLas Vegas Strip Street Circuit is a Formula 1 circuit located in Las Vegas, USA.",
+    "metadata": {
+      "circuit_id": "vegas",
+      "circuit_name": "Las Vegas Strip Street Circuit",
+      "locality": "Las Vegas",
+      "country": "USA",
+      "lat": "36.1147",
+      "long": "-115.173",
+      "url": "https://en.wikipedia.org/wiki/Las_Vegas_Grand_Prix#Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_villeneuve",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit Gilles Villeneuve",
+    "content": "[Circuit] Circuit Gilles Villeneuve\n[Circuit ID] villeneuve\n[Location] Montreal, Canada\n[Coordinates] latitude 45.5, longitude -73.5228\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve\nCircuit Gilles Villeneuve is a Formula 1 circuit located in Montreal, Canada.",
+    "metadata": {
+      "circuit_id": "villeneuve",
+      "circuit_name": "Circuit Gilles Villeneuve",
+      "locality": "Montreal",
+      "country": "Canada",
+      "lat": "45.5",
+      "long": "-73.5228",
+      "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve"
+    }
+  },
+  {
+    "doc_id": "circuit_watkins_glen",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Watkins Glen",
+    "content": "[Circuit] Watkins Glen\n[Circuit ID] watkins_glen\n[Location] New York State, USA\n[Coordinates] latitude 42.3369, longitude -76.9272\n[Reference URL] https://en.wikipedia.org/wiki/Watkins_Glen_International\nWatkins Glen is a Formula 1 circuit located in New York State, USA.",
+    "metadata": {
+      "circuit_id": "watkins_glen",
+      "circuit_name": "Watkins Glen",
+      "locality": "New York State",
+      "country": "USA",
+      "lat": "42.3369",
+      "long": "-76.9272",
+      "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International"
+    }
+  },
+  {
+    "doc_id": "circuit_yas_marina",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Yas Marina Circuit",
+    "content": "[Circuit] Yas Marina Circuit\n[Circuit ID] yas_marina\n[Location] Abu Dhabi, UAE\n[Coordinates] latitude 24.4672, longitude 54.6031\n[Reference URL] https://en.wikipedia.org/wiki/Yas_Marina_Circuit\nYas Marina Circuit is a Formula 1 circuit located in Abu Dhabi, UAE.",
+    "metadata": {
+      "circuit_id": "yas_marina",
+      "circuit_name": "Yas Marina Circuit",
+      "locality": "Abu Dhabi",
+      "country": "UAE",
+      "lat": "24.4672",
+      "long": "54.6031",
+      "url": "https://en.wikipedia.org/wiki/Yas_Marina_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_yeongam",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Korean International Circuit",
+    "content": "[Circuit] Korean International Circuit\n[Circuit ID] yeongam\n[Location] Yeongam County, Korea\n[Coordinates] latitude 34.7333, longitude 126.417\n[Reference URL] https://en.wikipedia.org/wiki/Korea_International_Circuit\nKorean International Circuit is a Formula 1 circuit located in Yeongam County, Korea.",
+    "metadata": {
+      "circuit_id": "yeongam",
+      "circuit_name": "Korean International Circuit",
+      "locality": "Yeongam County",
+      "country": "Korea",
+      "lat": "34.7333",
+      "long": "126.417",
+      "url": "https://en.wikipedia.org/wiki/Korea_International_Circuit"
+    }
+  },
+  {
+    "doc_id": "circuit_zandvoort",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Circuit Park Zandvoort",
+    "content": "[Circuit] Circuit Park Zandvoort\n[Circuit ID] zandvoort\n[Location] Zandvoort, Netherlands\n[Coordinates] latitude 52.3888, longitude 4.54092\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_Zandvoort\nCircuit Park Zandvoort is a Formula 1 circuit located in Zandvoort, Netherlands.",
+    "metadata": {
+      "circuit_id": "zandvoort",
+      "circuit_name": "Circuit Park Zandvoort",
+      "locality": "Zandvoort",
+      "country": "Netherlands",
+      "lat": "52.3888",
+      "long": "4.54092",
+      "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort"
+    }
+  },
+  {
+    "doc_id": "circuit_zeltweg",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Zeltweg",
+    "content": "[Circuit] Zeltweg\n[Circuit ID] zeltweg\n[Location] Styria, Austria\n[Coordinates] latitude 47.2039, longitude 14.7478\n[Reference URL] https://en.wikipedia.org/wiki/Zeltweg_Air_Base\nZeltweg is a Formula 1 circuit located in Styria, Austria.",
+    "metadata": {
+      "circuit_id": "zeltweg",
+      "circuit_name": "Zeltweg",
+      "locality": "Styria",
+      "country": "Austria",
+      "lat": "47.2039",
+      "long": "14.7478",
+      "url": "https://en.wikipedia.org/wiki/Zeltweg_Air_Base"
+    }
+  },
+  {
+    "doc_id": "circuit_zolder",
+    "source": "jolpica_api",
+    "category": "circuit",
+    "page_title": "Zolder",
+    "content": "[Circuit] Zolder\n[Circuit ID] zolder\n[Location] Heusden-Zolder, Belgium\n[Coordinates] latitude 50.9894, longitude 5.25694\n[Reference URL] https://en.wikipedia.org/wiki/Circuit_Zolder\nZolder is a Formula 1 circuit located in Heusden-Zolder, Belgium.",
+    "metadata": {
+      "circuit_id": "zolder",
+      "circuit_name": "Zolder",
+      "locality": "Heusden-Zolder",
+      "country": "Belgium",
+      "lat": "50.9894",
+      "long": "5.25694",
+      "url": "https://en.wikipedia.org/wiki/Circuit_Zolder"
+    }
+  }
+]
