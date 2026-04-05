@@ -1,0 +1,1710 @@
+[
+  {
+    "term": "ACTIVE AERO",
+    "description": "Dynamically adjustable angles of front and rear wing elements in specified high-speed sections. Available to every driver, every lap, to make the most of both downforce and car power. Unlike the previous Drag Reduction System, drivers don't need to be inside one second of the car in front to open the wings. Introduced as part of the 2026 regulations.",
+    "example": "\"Active aero provides downforce for higher speeds through the corners, while reducing drag for higher speeds on the straights.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "ADVANCED SUSTAINABLE FUEL",
+    "description": "Fuel used to power F1 cars. Made from cutting-edge sources like carbon capture, municipal waste, and non-food biomass - it's independently certified to meet strict sustainability standards. The fuel used is a 'drop-in' fuel too, so can work with road cars and existing fuel infrastructure, potentially reducing emissions across billions of combustion engines worldwide.",
+    "example": "\"From 2026, all F1 teams will use Advanced Sustainable Fuels provided by their fuel partners - creating competition and driving development of sustainable fuel technology.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "AERO RAKE",
+    "description": "Metal grid full of tiny sensors attached to an F1 car to measure the flow of air around it. Look out for teams using them primarily during pre-season testing.",
+    "example": "\"The car has an aero rake fitted behind the front wheels, which the team will be hoping gives them plenty of data to work with.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "AERODYNAMICS",
+    "description": "Flow of air around and across an object (and the study of it). Aerodynamics is vital in F1 car design - the better a car can move through the air, the faster it's going to be on track.",
+    "example": "\"Their new aerodynamic package has reduced the car's drag and improved lap times.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "AIR INTAKE",
+    "description": "Hole in the car above and behind the driver's head that helps to push air - more specifically, oxygen - into the power unit. An optimal flow of pressurised oxygen is needed for peak power unit performance. Sometimes called the airbox.",
+    "example": "\"This year's car uses a different shape air intake than before.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "ALLOCATION",
+    "description": "Number of tyre sets, power unit parts or gearboxes that can be legally used on each F1 car in a period of time. Tyre set allocations apply to each Grand Prix weekend and reset at each event. On a standard weekend, each driver gets 13 sets of dry-weather tyres, four sets of intermediates and three sets of full wets. Gearbox and power unit component allocations apply to the season as a whole - using any more will result in a penalty.",
+    "example": "\"F1 drivers have an allocation of four engines for the entire season.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "APEX",
+    "description": "Point on the racing line through a corner (usually halfway through it, but not always) that's as close to the inside kerb as possible. Some long corners have multiple apexes. Drivers aim to 'hit the apex' as it's normally the fastest route through the corner.",
+    "example": "\"They've missed that apex completely and that's going to hurt their lap time.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "APPEAL",
+    "description": "Request to the FIA (the sport's governing body) to review a result or decision by the stewards - such as a penalty - to try and have it changed or overturned.",
+    "example": "\"The team have appealed against the decision to disqualify the car.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "AQUAPLANING",
+    "description": "When a car has no grip at all because the tyres are skimming over a wet surface and losing all contact with the track itself. Also known as hydroplaning.",
+    "example": "\"There's so much standing water that there's a danger the cars might aquaplane straight off the track.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "ARMCO",
+    "description": "Metal crash barrier used in places around a circuit. Seen pretty much everywhere, but particularly noticeable at street circuits where the barriers tend to be very close to the track.",
+    "example": "\"The car slid just a fraction wide and hit the Armco.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "ASPHALT",
+    "description": "Material used to create the track surface at most F1 circuits. Not the same everywhere as different mixtures make the surface smoother or rougher, impacting tyre degradation and therefore race strategy.",
+    "example": "\"New asphalt has been laid on track since we last raced here, which has changed the grip levels.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BACKMARKER",
+    "description": "Driver running towards the back of the race. They'll be shown a blue flag during a race when faster cars catch up to them, telling them they need to move over and let the faster car past - which is known as being lapped.",
+    "example": "\"The race leader has caught some backmarkers and won't want to lose any time lapping them.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BALLAST",
+    "description": "Weight deliberately added to the car. F1 cars need to be a minimum weight, so adding ballast can achieve this, help create balance and optimise the centre of gravity. Extra weight might also help teams when sandbagging.",
+    "example": "\"The team have added ballast in places, helping with weight distribution and improving the handling.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BARGEBOARD",
+    "description": "Vertical pieces of aerodynamic bodywork fitted between the front wheels and sidepods. They help direct airflow around the car.",
+    "example": "\"Bargeboards returned to F1 car designs from 2026 as a robust solution designed to prevent out-washing of turbulent air.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BATTERY",
+    "description": "Common name for the energy store used in F1's hybrid power units since 2014. Drivers are allocated a specific number of energy stores per season and will receive a penalty if this is exceeded.",
+    "example": "\"That flashing red light at the back of the car shows they're harvesting energy and recharging the battery.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BLACK FLAG",
+    "description": "Plain black flag shown to a driver (along with their car number) to signal that they have been disqualified. The driver must return to the pits immediately and is out of the race. A rare occurrence in F1.",
+    "example": "\"That's the black flag! They've been disqualified from the race!\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BLACK AND ORANGE FLAG",
+    "description": "Black flag with an orange circle in the middle (sometimes nicknamed the 'meatball flag'), shown to a driver (along with their car number) who has car damage or mechanical issues that could be dangerous to themselves or others. The driver must pit as soon as possible and fix the problem before they're allowed to continue.",
+    "example": "\"Part of that front wing looked loose, and now they've been shown the black and orange flag.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BLACK AND WHITE FLAG",
+    "description": "Diagonally-divided black and white flag shown to a driver (along with their car number) to warn them that any more unsporting behaviour will result in punishment. Repeatedly breaching track limits is an example of unsporting behaviour. Not to be confused with the chequered flag (which is also black and white).",
+    "example": "\"They've been shown the black and white flag for exceeding track limits again and will need to be more careful now.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BLISTERING",
+    "description": "When heat from inside the tyre rises up to the cooler surface, creating small blisters and softening chunks of rubber that then fly off the tyre as it rotates (creating 'marbles'). The resulting holes in the tyre surface reduce grip and can cause steering vibrations, forcing a driver to slow down to maintain control. Badly blistered tyres will need replacing during a pit stop.",
+    "example": "\"I've got no grip at all! The tyres are blistering badly.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BLUE FLAG",
+    "description": "Plain blue flag shown to a driver to signal that they need to let a faster car behind them overtake as soon as possible. During a race, the blue flag is shown to backmarkers about to be lapped. During practice, the blue flag is shown to anyone when a much faster car is approaching. It is always shown to a driver rejoining from the pit lane when other cars on track are approaching at speed. A driver repeatedly ignoring a blue flag risks being penalised.",
+    "example": "\"They've ignored three separate blue flags and failed to move over, and now they'll be in trouble.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BODYWORK",
+    "description": "Parts fitted to the outside of the car, such as the engine cover, sidepods, and nosecone - usually made of carbon fibre composites. The bodywork is, more often than not, aerodynamically designed.",
+    "example": "\"A piece of bodywork looks to have come off the car! Will that have an impact on their lap times?\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BOOST",
+    "description": "Power unit mode giving a driver maximum power from the engine and battery at the push of a button, so long as there's enough charge in their battery. Introduced as part of the 2026 regulations.",
+    "example": "\"They're using boost mode and giving it absolutely everything!\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BOTTOMING",
+    "description": "When the underside, or bottom, of the car hits the track surface, usually resulting in a spectacular shower of sparks. Certain set-ups can result in it happening more regularly because the car is lower to the ground. Also known as grounding or porpoising.",
+    "example": "\"The car was bottoming out a lot on the straights.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BOX",
+    "description": "Common name for the pit box - the area outside of a team's garage in the pit lane. Use of the word box comes from the German Boxenstopp (meaning pit stop) and is easier to hear over the radio than the word pit, so teams use it to instruct a driver when it's time for them to come in for a pit stop.",
+    "example": "\"Box, Box, Box! Box this lap for fresh tyres.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BRAKE BALANCE",
+    "description": "Amount of braking power that's split between the front and rear of the car. The driver can adjust this balance while driving, enabling them to alter the car's handling during a race without needing to stop. Also called brake bias.",
+    "example": "\"I moved the brake balance towards the rear to try and stop the fronts from locking up.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BRAKE-BY-WIRE",
+    "description": "Electronic system connected to the rear brakes, alongside the hydraulic braking system. Part of the Energy Recovery System - electrical energy is recovered when braking and stored for use later.",
+    "example": "\"There was an issue with the car, and I had no brake-by wire for the last few laps.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "BRAKING POINT",
+    "description": "Point on the circuit before a corner where a driver hits the brakes to slow the car down before making the turn. Braking later than another driver can help with overtaking, but is risky as the car could be travelling too fast to make the corner!",
+    "example": "\"I missed the braking point, carried too much speed into the corner, and ran wide.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CAMBER",
+    "description": "Angle that a tyre leans into or away from the car that affects how it contacts the track surface. This can impact grip, handling and tyre wear. If the top of the tyre angles towards the car, that's negative camber. If the top of the tyre angles away from the car, that's positive camber. A perfectly vertical tyre is neutral camber.",
+    "example": "\"The front wheels on an F1 car are usually in negative camber to help with cornering.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CARBON FIBRE",
+    "description": "Common name for the carbon fibre-reinforced composite materials used in F1. Super strong and unbelievably lightweight with a very high-temperature tolerance, it's incredibly useful in Formula 1 cars.",
+    "example": "\"Carbon fibre is an amazing material for both performance and safety.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CFD",
+    "description": "Computational Fluid Dynamics. Complex simulations and analysis needing powerful computers to estimate aerodynamic airflow and car performance. Alongside wind tunnel testing, F1 teams have a restricted number of CFD hours they can use for car development based on where they finished the previous season.",
+    "example": "\"Lots of ideas were looked at using CFD before several were then tested in the wind tunnel.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CHASSIS",
+    "description": "Main body of the F1 car onto which everything else is built or attached. Modern F1 chassis have incredibly strong carbon fibre boxes in which the driver sits, acting as survival cells to help protect them in the event of a crash. Also known as a monocoque (French for 'single shell'), and sometimes nicknamed a 'tub'.",
+    "example": "\"That was a big impact, but it looks like the chassis has done its job.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CHEQUERED FLAG",
+    "description": "Black and white chequered-pattern flag waved to signal the end of the session. It is waved from the pit wall above the finish line until all cars still competing have passed it. Not to be confused with the black and white flag.",
+    "example": "\"There's the chequered flag and that's a sensational race win!\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CHICANE",
+    "description": "Tight sequence of corners in alternating directions. Designed to challenge drivers and slow the cars down at necessary points on the circuit - often creating good overtaking opportunities. The Nouvelle Chicane after the famous tunnel in Monaco is a good example.",
+    "example": "\"They got the braking wrong, locked up, and completely cut the chicane.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CIRCUIT",
+    "description": "Motor racing track. A street circuit is made up of public roads, in a city or park, that have been temporarily closed to host a race - think Las Vegas, Monaco or Singapore. Other circuits are purpose-built venues designed specifically for motorsport, like Circuit of The Americas, Shanghai International Circuit or Suzuka Circuit.",
+    "example": "\"As a rookie, this is the first time I've ever raced at this circuit in an F1 car.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CLEAN AIR",
+    "description": "Airflow ahead of a car that has not been disrupted (for example, by another car passing through it), allowing the optimal flow of air over the car needed to generate the right aerodynamic downforce. The opposite of 'dirty' air.",
+    "example": "\"When I got past and into clean air, I was able to put in some decent laps.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "COANDA EFFECT",
+    "description": "Tendency for airflow (or a fluid) to follow the contours of a solid surface as it moves over it rather than in a straight line. F1 aerodynamicists use the effect to help channel airflow around the car.",
+    "example": "\"The Coanda effect is important to consider when trying to maximise the aerodynamic efficiency of the car.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "COCKPIT",
+    "description": "Area within the chassis that the driver sits. F1 drivers are sometimes referred to as pilots, from the French word for driver, and there's plenty of similarities between F1 cars and aircraft!",
+    "example": "\"They're just going through some final checks in the garage before climbing into the cockpit.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "COLD TYRES",
+    "description": "Tyres that have not reached their optimum temperature - they're not actually cold. F1 tyres perform best when they're in the right 'temperature window'. Too cold and they won't grip the track surface like they should. Too hot and they'll degrade quicker than wanted (and then won't grip like they should). Managing tyre temperatures is important in F1.",
+    "example": "\"I'd just come out of the pits on cold tyres, so the grip level just wasn't there.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "COMPOUND",
+    "description": "Composition of the rubber materials used to make F1 tyres. Pirelli, as Global Tyre Partner of Formula 1, have six dry-weather tyre compounds in their range - C1, C2, C3, C4, C5 and C6 - and two wet-weather compounds - intermediate and full wet. The higher the compound number, the softer (and less durable) the tyre. The softer the tyre the faster the lap, as they provide more grip. Pirelli choose three compounds to become the hard, medium and soft tyres for every race weekend, depending on the circuit characteristics.",
+    "example": "\"The C3 compound was the medium tyre last time F1 was here, but it's the soft tyre this weekend.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CONCORDE AGREEMENT",
+    "description": "Contract between Formula 1, the FIA (as governing body) and the F1 teams that stipulates, amongst other things, how the sport is run and how prize money and revenues are distributed. Every team must sign the agreement to compete in Formula 1. It's named after the Place de la Concorde in Paris, where discussions took place ahead of the first agreement being signed in 1981.",
+    "example": "\"The Concorde Agreement has had multiple editions and renegotiations as the sport has evolved.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CONSTRUCTOR",
+    "description": "Official term for a Formula 1 team. Each team is required to design and build its own car, and so each team competes for the World Constructors' Championship every season.",
+    "example": "\"Ferrari is the most successful constructor in F1 history.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CONTROL ELECTRONICS",
+    "description": "Standardised part of the F1 power unit that controls many systems on the car, making millions of calculations every second - playing a key role in converting electrical energy for storage or deployment. Drivers are allocated a specific number of control electronics units per season and will receive a penalty if this is exceeded.",
+    "example": "\"They've had to replace the control electronics in the car ahead of this session.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "COOLDOWN LAP",
+    "description": "Lap driven at a slower pace, usually after a 'flying' lap in Qualifying, to help bring temperatures down (engine or tyre temperatures, for example) while the car isn't being driven as hard. F1 cars have impressive heat tolerances but perform best when they're at the right temperature.",
+    "example": "\"There were a lot of cars out on cooldown laps getting in the way while I was trying to push on my flying lap.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "COOLDOWN ROOM",
+    "description": "Dedicated space in the paddock for drivers to recover and refresh themselves after a race before heading out to the podium.",
+    "example": "\"Let's try and listen in to what the drivers are saying in the cooldown room.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "CURFEW",
+    "description": "Mandatory overnight periods during a race weekend when teams are not allowed to physically work on their cars, and the team members who normally would are required to leave the paddock. Each team gets two exceptions per season.",
+    "example": "\"The team needed to use one of their curfew exceptions to repair the car overnight.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DEBRIEF",
+    "description": "Team meeting after a session to review performance and discuss car set-up and strategy.",
+    "example": "\"There's going to be a lot to discuss in the debrief after that session.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DEGRADATION",
+    "description": "Wearing down of parts, causing a reduction in performance. Tyres becoming worn out and losing their grip is the most obvious example, but all components degrade with use over time. Often shortened to 'deg'.",
+    "example": "\"We're seeing a lot more tyre degradation than expected, so take it easy out there.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DELTA",
+    "description": "Difference between times. If a driver is faster than the time set, this is a negative delta and the time difference is shown with a minus symbol (e.g. -0.2s). If they are slower, that is a positive delta and the time difference is displayed with a plus symbol (e.g. +0.2s).",
+    "example": "\"Keep an eye on your delta with the Virtual Safety Car.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DERATING",
+    "description": "Reduction in the amount of power produced by the power unit, specifically because the hybrid electrical elements run out of the electrical energy used to boost it.",
+    "example": "\"It looks like we lost time on the long straights because of derating.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DEVELOPMENT DRIVER",
+    "description": "Driver employed by an F1 team whose primary focus is to help develop the car. This usually involves spending time in the team's simulator, rather than in the car itself, because testing time on track in F1 is limited.",
+    "example": "\"Our development driver has tested numerous set-ups in the simulator back at the factory.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DIFFERENTIAL",
+    "description": "Car part used to control the amount of power going to each of the rear wheels. When cornering, the outer rear wheel will need to rotate more than the inner rear wheel, and the 'diff' splits the drive to each wheel accordingly.",
+    "example": "\"There seemed to be a problem with the differential that cost us a few tenths per lap.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DIFFUSER",
+    "description": "Rear section of the car's floor. As the car moves forward, the airflow underneath exits here and the diffuser design is important to control the speed at which it does. The faster the airflow exits, the lower the air pressure beneath the car - which generates more downforce.",
+    "example": "\"All the talk in the paddock this morning has been about the team's new diffuser.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DIRTY AIR",
+    "description": "Airflow in front of the car that has been disrupted - usually by a car ahead passing through it. F1 cars are designed to run best in 'clean' air, so this turbulent air reduces aerodynamic downforce because it doesn't flow smoothly over the car.",
+    "example": "\"I was stuck in dirty air for so long, I just couldn't get past.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DNF",
+    "description": "Did Not Finish. Race classification for a driver who fails to finish a race. If a driver has completed at least 90% of the race distance they are classified as finishing - even if they then retire before it officially ends.",
+    "example": "\"The team suffered a disappointing double DNF last weekend.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DNQ",
+    "description": "Did Not Qualify. Race classification for a driver who fails to qualify for a race. To qualify, a driver needs to set a lap time in the first part of Qualifying that's within 107% of the fastest time set (unless the track is officially declared wet).",
+    "example": "\"Having set a good enough time in practice, the stewards have ruled the driver can start from the back despite their DNQ yesterday.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DNS",
+    "description": "Did Not Start. Race classification for a driver who successfully qualifies for a race but is then unable to take the start (because of a mechanical problem, for example).",
+    "example": "\"It looks like it's going to be an unfortunate DNS as the team have been unable to fix the car in time for the race.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DOUBLE STACK",
+    "description": "When both cars in a team make a pit stop at the same time (well, one immediately after the other). It can be risky, but if executed perfectly the first car will be leaving the pit box just as the second car arrives for its stop.",
+    "example": "\"They're double stacking here… and they've done it perfectly!\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DOWNFORCE",
+    "description": "Force that acts vertically on the car as a result of aerodynamics. The car gets pushed down onto the track surface as air flows over it (or sucked down into the surface as air flows under it). Downforce can improve grip, traction, and handling - enabling a driver to go faster around corners.",
+    "example": "\"The low downforce set up means the car will slide more when cornering but go faster on the straights as there'll be less drag.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DRAG",
+    "description": "Force that acts horizontally on the car in the opposite direction to its movement as a result of aerodynamics. Too much drag on the car as it moves through the air will slow it down. Also known as air resistance.",
+    "example": "\"The car had so much drag that it felt like I was towing a parachute behind me on the main straight.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DRIFT",
+    "description": "Driving technique that slides the car sideways around a corner while maintaining control. Drifting is slower than taking the normal racing line, so it's most often seen in F1 when a driver is pushing hard and fighting to keep control.",
+    "example": "\"They've done brilliantly well to keep control of that car with a small drift through the corner.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DRIVE TO SURVIVE",
+    "description": "Popular documentary series produced between F1 and Netflix that goes behind-the-scenes of the sport. Officially titled Formula 1: Drive to Survive.",
+    "example": "\"Anyone who's seen Drive to Survive will know exactly what that means!\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DRIVE-THROUGH PENALTY",
+    "description": "Penalty handed to a driver by the stewards during a race. Drivers must drive through the pit lane without stopping - obeying the speed limit throughout - before re-joining the race.",
+    "example": "\"They've been given a drive-through penalty for that earlier incident.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DRIVERS' BRIEFING",
+    "description": "Meeting of all the drivers and the FIA Race Director during a race weekend, primarily to discuss issues relating to that Grand Prix. Other subjects, such as driving standards or safety, may also be discussed.",
+    "example": "\"Apparently the topic was discussed in detail at the drivers' briefing this weekend.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DRIVERS' PARADE",
+    "description": "Processional lap around the circuit two hours before the Grand Prix start that all the drivers take part in - more often than not in classic open-top cars.",
+    "example": "\"The crowd absolutely loved seeing their heroes earlier today on the drivers' parade.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DRS",
+    "description": "Drag Reduction System, used previously in Formula 1. A driver could open a flap on the car's rear wing at certain parts of the circuit (usually long straights) known as DRS zones. This reduced aerodynamic drag on the car, allowing it to move faster, which helped with overtaking. During a race, DRS could only be used if a car was less than one second behind the car in front as it crossed a DRS detection point. DRS was not available in wet conditions. It was replaced by 'active aero' and 'overtake mode' as part of the 2026 regulations.",
+    "example": "\"DRS use during a Grand Prix was restricted, but the active aero system is useable by all of the cars, all of the time.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "DSQ",
+    "description": "Disqualified. Session classification when a driver is disqualified for breaking the rules.",
+    "example": "\"It's not often you see DSQ on the timesheet!\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "ECU",
+    "description": "Electronic Control Unit. Standardised programmable unit installed inside a car, connected to more than 100 sensors. That data is transmitted to the team in real time, allowing them to make rapid data-based decisions - such as changes to race strategy.",
+    "example": "\"The ECU is manufactured by an FIA designated supplier.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "ENDPLATE",
+    "description": "Vertical bodywork pieces on (or near) the outside edges of the front and rear wings. Key parts of the car's aerodynamic design.",
+    "example": "\"The damage to the front wing endplate after that earlier collision is having an impact on performance.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "ENERGY STORE",
+    "description": "Rechargeable electrical storage unit used in F1's hybrid power units since 2014. More commonly called the battery. Drivers are allocated a specific number of energy stores per season and will receive a penalty if this is exceeded.",
+    "example": "\"The energy store is fully charged - deploy as you need to on this lap.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "ERS",
+    "description": "Energy Recovery System. Components working together to recover energy from the car, convert and store it as electrical energy, and then make it available to deploy. The Motor Generator Unit - Kinetic (MGU-K), energy store and control electronics are key parts of the ERS.",
+    "example": "\"I'm down on battery power! Is there a problem with the ERS?\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "ESSES",
+    "description": "When a corner turning left is followed shortly afterwards by a corner turning right (or vice versa) - so that together they look like a bit like the letter 'S'. Think the Senna Esses at Interlagos. If such corners follow each other immediately , that's a chicane.",
+    "example": "\"Some say the high-speed esses at Suzuka are the most awesome sequence of bends on the F1 calendar.\"",
+    "category": "A-E",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-a-e.1MFONigMlQSbSQtpP7YCy2"
+  },
+  {
+    "term": "FALLING OFF A CLIFF",
+    "description": "Term describing a sudden drop in tyre performance that cannot be recovered, meaning those tyres will need to be replaced at a pit stop.",
+    "example": "\"My tyres just fell off a cliff and I was forced to pit earlier than planned.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FASTEST LAP",
+    "description": "Quickest lap time set during a Grand Prix. One driver sets the fastest lap at each race, and the driver who has set the most fastest laps at the end of the season wins the DHL Fastest Lap Award. The 2019 to 2024 seasons saw one Championship point awarded to the driver with the fastest lap, provided they finished within the top 10, but this was scrapped from 2025.",
+    "example": "\"Good work. That was the fastest lap of the race so far.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FIA",
+    "description": "Federation Internationale de l'Automobile. The governing body for world motorsport. They set the rules and regulate the sport.",
+    "example": "\"The FIA-appointed race stewards will be taking a very close look at that incident before making a decision.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FIA FORMULA ONE WORLD CHAMPIONSHIP",
+    "description": "Official title of the world's most prestigious motor racing competition. 'Formula' refers to a set a of rules that applies to all participating cars, while the 'One' signals it is the premier formula. More commonly called Formula 1, or F1.",
+    "example": "\"The 2026 FIA Formula One World Championship spans 24 races in 21 countries across five continents.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FINANCIAL REGULATIONS",
+    "description": "Financial rules restricting the amount of money an F1 team can spend in a calendar year to develop, manufacture, test, and race, while leaving the team free to decide how to allocate those resources for car development. More commonly known as the budget cap or cost cap.",
+    "example": "\"The Financial Regulations are designed to promote competitive balance and sporting fairness.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FLAT SPOT",
+    "description": "Area on the tyre surface that has been worn flat. Usually caused by 'locking up' a wheel while braking - effectively preventing a tyre from rotating and grinding it flat against the track. Flat spots reduce grip and cause vibrations in the car, negatively impacting performance.",
+    "example": "\"I locked up, got a flat spot, and the next few laps were not very comfortable after that!\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FLOW-VIS",
+    "description": "Flow-visualisation paint. Fluorescent powder in a liquid mixture that's sprayed onto parts of the car and then spreads as the car moves. It helps teams see how the air flows across the surface of the car. Look out for teams using it during pre-season testing and practice sessions.",
+    "example": "\"The flow-vis can tell aerodynamicists a lot about the design of that front wing.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FLOOR",
+    "description": "Bottom of an F1 car, onto which the rest is built. The underside of the floor has seen plenty of change through the years, with the 2026 regulations making floors flatter with extended diffusers (they used to have long, grooved 'Venturi' tunnels underneath) - reducing downforce and creating a greater variety of car set-ups.",
+    "example": "\"The design of the floor is no longer as intricate as before.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FLYING LAP",
+    "description": "Lap when a driver pushes as hard as possible, with the car's power unit turned up to maximum, to set their fastest time. Usually happens between an 'out-lap' (when the driver leaves the pits), and an 'in-lap' (when the driver returns to the pits). Sometimes called a push lap or a hot lap.",
+    "example": "\"They're on a flying lap and have just gone fastest in the first sector.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FORMATION LAP",
+    "description": "Lap from the grid immediately before the race to bring brakes and tyres up to an optimum temperature, before the cars then form up again on the grid for the race. Sometimes called the warm-up lap or parade lap.",
+    "example": "\"Here we go then as the drivers begin the formation lap ahead of the Grand Prix.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FRONT WING",
+    "description": "Bodywork with curved, streamlined surfaces attached to the front of the car. Essentially acts like an upside-down aircraft wing, directing air flow around the car and generating downforce (rather than lift!) - heavily influencing car performance. Simplified as part of the 2026 regulations, the wing elements are narrower than before, but the outer sections opened up new areas for aerodynamic development.",
+    "example": "\"The team will be running an updated front wing design this weekend.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FUEL",
+    "description": "Advanced Sustainable Fuel. Made from cutting-edge sources like carbon capture, municipal waste, and non-food biomass - it's independently certified to meet strict sustainability standards. The fuel used in F1 is a 'drop-in' fuel too, so can work with road cars and existing fuel infrastructure, potentially reducing emissions across billions of combustion engines worldwide.",
+    "example": "\"F1 is working with major fuel manufacturers to develop advanced sustainable drop-in fuels that can be used around the world.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "FUEL CELL",
+    "description": "Official term for the fuel tank in Formula 1 cars. Designed to survive incredibly high impacts without rupturing, the fuel cell sits behind the cockpit and is made of materials including Kevlar and synthetic rubber.",
+    "example": "\"The fuel cell is more like a flexible bladder than a rigid metal tank.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "F1 BEYOND THE GRID",
+    "description": "Podcast where the risk-takers, late-brakers and history-makers of Formula 1 slow down for in-depth interviews. Tom Clarkson brings you revealing, feature-length conversations with drivers, team bosses, engineering experts and F1 legends.",
+    "example": "\"They revealed on F1 Beyond The Grid just what happened on that dramatic day.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "F1 EXPLAINS",
+    "description": "Podcast offering fans an insight into how various things in F1 work. Hosts Katie Osborne and Christian Hewgill are joined by special guests to help answer fan questions.",
+    "example": "\"This topic is discussed on the latest episode of F1 Explains.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "F1 FANTASY",
+    "description": "Free-to-play game where players create their own F1 teams with 5 drivers and 2 constructors. Players can enter leagues where those with the most points can win exciting prizes.",
+    "example": "\"That retirement is not good news for my F1 Fantasy team!\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "F1 NATION",
+    "description": "Podcast with Tom Clarkson and expert guests, stepping inside the Formula 1 Paddock for race previews, reviews, interviews and analysis.",
+    "example": "\"Reaction to the news provided plenty of talking points on F1 Nation.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "F1 PREDICT",
+    "description": "Free-to-play game where players answer 10 questions with predictions for an upcoming Grand Prix weekend. Players can enter leagues and win prizes.",
+    "example": "\"If you predicted that on F1 Predict then you probably scored a lot of points!\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "F1 SPRINT",
+    "description": "100km race held at select events during an F1 season. There are six F1 Sprint weekends, with the Sprint itself taking place the day before the Grand Prix - typically on Saturday. The starting grid for the Sprint is set during Sprint Qualifying on the first day of the race weekend - usually on Friday. The top eight finishers in the Sprint are awarded Championship points.",
+    "example": "\"It's an F1 Sprint weekend, so there's limited practice time and plenty of action to look forward to each day.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "G-FORCE",
+    "description": "Gravitational force acting on an object (or person). One unit of 'standard gravity' (g) is strong enough to pull things down to the Earth's surface. F1 drivers experience extreme g-forces pulling on their bodies as they corner, brake and accelerate.",
+    "example": "\"Formula 1 drivers need to be in peak physical condition to cope with the g-forces they feel.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GEARBOX",
+    "description": "Unit containing the system of gears in a car. Gearboxes are semi-automatic and a driver uses paddles located on the steering wheel to change gears.",
+    "example": "\"Ferrari were the first to use a true sequential-style paddle shift gearbox in Formula 1, back in 1989.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GLORY RUN",
+    "description": "Fast lap set by a driver - more often than not in a midfield or lower team - using low fuel and soft tyres which might top the timesheets. Generally seen during testing, a glory run may offer a morale boost to the team and driver, as well as drawing the attention of others - including potential sponsors.",
+    "example": "\"Was that a glory run or a reflection of their true pace? Either way they've gone to the top of the timesheets!\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GLOVES",
+    "description": "Part of a driver's safety equipment. As well as protecting their hands, gloves feature biometric technology which can monitor the heart rate and blood pressure of a driver, providing vital medical information if needed. Performance-wise, it's important the gloves are a good fit as drivers get much of their 'feel' for the car through their hands on the steering wheel.",
+    "example": "\"Get my gloves and steering wheel... Gloves!\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GRAINING",
+    "description": "When the outside surface of a tyre is much hotter than the inside, the rubber softens and small pieces begin to break away - caused by friction as a tyre slides across the track. These hot pieces almost immediately stick elsewhere on the hot tyre, creating an uneven surface that reduces grip. Drivers can try to bring tyres 'back to life' by wearing down this excess surface rubber to restore grip.",
+    "example": "\"I struggled through a graining phase and lost a few places before I brought the tyres back.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GRAND CHELEM",
+    "description": "When a driver claims pole position in Qualifying, sets the fastest lap of the Grand Prix and leads every lap of the race on their way to victory in a single race weekend. An illustrious feat, also known as a Grand Slam.",
+    "example": "\"What a weekend! They've added their name to the history books with that Grand Chelem.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GRAND PRIX",
+    "description": "Official term for a Formula 1 race. From the French for 'big prize'. A Grand Prix weekend typically runs from Friday to Sunday - this is generally one day of practice, followed by a final practice session and Qualifying on the second day, before the Grand Prix itself is held on the final day. The format varies during an F1 Sprint weekend, when Sprint Qualifying happens on the first day and the Sprint takes place the day after - replacing two of the practice sessions.",
+    "example": "\"This is a crucial Grand Prix weekend in the battle for the championship.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GRAVEL TRAP",
+    "description": "Area of gravel, usually on the outside of a corner, designed to rapidly slow down any cars that enter it having left the track. Cars can become beached in gravel traps, becoming stuck and forcing a driver to retire from the race.",
+    "example": "\"They've gone off and deep into the gravel trap! Can they keep the car going and get back on track!?\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GREEN FLAG",
+    "description": "Plain green flag waved to signal that the track ahead is clear and cars can be driven at speed. Used at the start of a session, it is also waved when an incident needing yellow flags, a Safety Car, or a Virtual Safety Car, has been safely passed or cleared.",
+    "example": "\"The Safety Car comes into the pits and we've got the green flag to go racing again.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GREEN TRACK",
+    "description": "When the track hasn't had much (if any) tyre rubber shed on it, and so isn't as providing as much grip as it could do. Usually seen when the cars head out for the first practice session as, in dry conditions, the track becomes 'rubbered in' over a race weekend and grip levels improve as bits of rubber come off the tyres.",
+    "example": "\"It's still a green track, so don't push the car too hard just yet.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GRID",
+    "description": "Marked section on the track where the cars line up to take the start of the race. Each driver's starting position is decided during Qualifying. Starting from as near to the front as possible is advantageous, as drivers in the tightly-packed middle or rear of the pack are often more likely to encounter incidents. Also known as the starting grid.",
+    "example": "\"The final car has taken its position on the grid and now we wait for the lights and the race start.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GRID PENALTY",
+    "description": "Penalty forcing a driver to start the race from further back than their qualified grid position. If a driver exceeds their allocation of car parts for the season, they will be given a grid penalty.",
+    "example": "\"They've been handed a five-place grid penalty and will start the race from further down the order.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GRIP",
+    "description": "The amount of traction a car has, or how much the car will stick to the track. The amount of grip a driver feels influences how they control the car. Grip can be affected by factors such as tyre wear and track conditions, and the more grip a driver feels though a corner, the faster they're likely to drive through it.",
+    "example": "\"I've just got no grip at all!\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GROUND EFFECT",
+    "description": "Aerodynamic phenomenon when an increased amount of suction underneath a car (created by long, grooved 'Venturi' tunnels) increases downforce, effectively pulling it down onto the track surface. Ground effect was banned in F1 in 1982, reintroduced in 2022, before essentially being phased out by the flatter floors of the 2026 regulations.",
+    "example": "\"The ground effect era is effectively over with these new regulations.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "GURNEY FLAP",
+    "description": "Small component mounted on the trailing edge of a wing, usually at a right-angle to the wing's surface. Used in racing to channel the airflow in a way that improves downforce without increasing drag. Named after its inventor, American F1 driver Dan Gurney.",
+    "example": "\"The car is running a revised front wing featuring a Gurney flap.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "HAIRPIN",
+    "description": "Very tight corner requiring a driver to brake heavily before a sharp turn. Perhaps the most famous example is the Fairmont Hairpin in Monaco, one of the slowest corners on the F1 calendar and scene of some dicey moments and the occasional overtake.",
+    "example": "\"That was an impressive overtake through the hairpin!\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "HALO",
+    "description": "Horseshoe-shaped safety structure formed of an elevated titanium bar around the cockpit. Introduced in 2018, it helps protect drivers in the event of a crash.",
+    "example": "\"The halo really did its job there.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "HANDLING",
+    "description": "How a car responds to the actions of its driver, including how it reacts under braking and when turning. A car that handles well will likely be balanced and respond exactly as the driver expects, without issues such as oversteer or understeer.",
+    "example": "\"The handling of the car has been great this weekend.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "HANS DEVICE",
+    "description": "Head and Neck Support Device. Mandatory piece of safety equipment that clips to the back of a driver's helmet and rests on their shoulders. It prevents too much dangerous movement of the head and neck during a crash.",
+    "example": "\"The HANS device is a compulsory piece of equipment in F1.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "HARD TYRE",
+    "description": "Most durable compound of slick tyre, identifiable by the white on the sidewalls. Hard tyres offer less grip than softer tyres, making them slower over a short distance. However, they don't degrade as quickly and that makes them a good choice for longer distances.",
+    "example": "\"Okay... We're going to run a longer stint on the hard tyre.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "HEADREST",
+    "description": "Energy-absorbing safety device at the top of the cockpit made of carbon fibre and protective foam. It protects a driver's head in case of a crash. The headrest is removeable to allow more space for getting into and out of the car.",
+    "example": "\"Off comes the headrest, out comes the steering wheel, and it looks like they are out of this race.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "HEAT CYCLE",
+    "description": "Heating a tyre (by using it) before it cools down again. Tyres that have been used - for example, in a small number of laps during a session - will have been through one heat cycle. A used tyre doesn't offer as much grip as a new tyre, but a heat cycle can result in the tyre getting to optimum temperature faster when it's used again.",
+    "example": "\"The tyres have already been through one heat cycle.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "HELMET",
+    "description": "Safety equipment worn by a driver to protect their head. Helmets feature an outer shell made of carbon fibre, while the fabric inside is fireproof. It must pass a series of rigorous safety tests, and drivers can decorate them as they wish. Some have had the same design since they began their motorsport career.",
+    "example": "\"They've got a new helmet design this weekend.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "HYBRID",
+    "description": "Combination of advanced sustainable fuels (via a 1.6-litre turbocharged V6 engine) and electrical energy (via a battery) that powers an F1 car in a roughly 50:50 split.",
+    "example": "\"Formula 1 cars have been hybrid since 2014.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "IN-LAP",
+    "description": "Lap when a driver makes their way back to the pits. In a practice session or Qualifying, this usually comes after a driver has completed a flying lap, and they may slow down to cool the car down. During a race, it's the lap in which a driver makes a pit stop.",
+    "example": "\"They're not travelling as quickly because they've slowed down on their in-lap.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "INSTALLATION LAP",
+    "description": "Lap when a driver tests certain car functions, perhaps the throttle or the brakes, early in a session before returning to the pits without crossing the start/finish line.",
+    "example": "\"They've returned to the garage after that installation lap.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "INTERMEDIATE",
+    "description": "Tyre compound used for damp (or wet) conditions when it is not considered treacherous enough for full wet tyres. Identifiable by the green on the sidewalls, intermediate tyres - or 'inters' - offer versatility in changing weather conditions.",
+    "example": "\"It's raining a bit more now - we should box for intermediates.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "INTERVAL",
+    "description": "The difference in time between a driver and a car ahead of them. More commonly called a gap.",
+    "example": "\"The interval between them is now down to less than two seconds.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "JACK MAN",
+    "description": "Member of a pit crew who uses a piece of equipment - a jack - to raise a car off the ground during a pit stop so that tyre changes can be made. The front jack man stands directly in front of the car as it stops, while the rear jack man has to quickly get into position once the car has passed them.",
+    "example": "\"The jack man did an excellent job in that pit stop.\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "JUMP START",
+    "description": "When a driver moves from their grid position before the red lights have gone out to start the race. Sensors can detect early movement, and a driver will be penalised for jumping the start.",
+    "example": "\"Was there movement there? The stewards might take a look at that as a possible jump start!\"",
+    "category": "F-J",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-f-j.2g6grJVxT6dFCDpSmgoCQX"
+  },
+  {
+    "term": "KERB",
+    "description": "Raised border around a track corner helping define track limits. There are different types of kerbs in F1, all often brightly coloured. Some drivers will 'ride' a kerb - effectively straddling it with the car - if it's the fastest way through a corner, although hitting a kerb too hard can unsettle the car and cause damage.",
+    "example": "\"They had a big moment there after taking too much kerb looking for the apex!\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "KEVLAR",
+    "description": "Incredibly strong but lightweight, heat-resistant synthetic fibre used in various parts of a Formula 1 car. Kevlar is used in areas such as the bodywork, chassis and fuel tank.",
+    "example": "\"The fuel tank has been constructed using Kevlar.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "LAP RECORD",
+    "description": "Fastest time ever recorded at a circuit, set during a Grand Prix (so, not Qualifying). While some lap records have been broken in recent years, others have remained unbeaten from as far back as the early 2000s.",
+    "example": "\"They look rapid and could set a new lap record here!\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "LAPPED",
+    "description": "When a driver is overtaken by someone who has completed a full lap or more of the circuit than they have, putting them a full lap behind. Backmarkers may be shown the blue flag when faster cars approach, instructing them to allow that car to overtake. It is possible for a driver to 'unlap' themselves if they can chase down and repass the car that lapped them.",
+    "example": "\"They've already been lapped by the leading cars in this race, and now the rest of the pack is catching them.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "LAYING DOWN RUBBER",
+    "description": "When very small pieces of rubber fall off the tyres and remain on the track surface. A process of circuit evolution, there'll be more shed rubber as more cars hit the track. This then increases the grip of the track surface, enabling the cars to go even faster. Also known as the track 'rubbering in'.",
+    "example": "\"The track is getting faster now that several drivers have been out laying down rubber.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "LEFT-FOOT BRAKING",
+    "description": "Driving technique using the left foot to brake and the right foot on the throttle. With no clutch pedal, drivers are able to slow the car with the left foot before quickly accelerating again with the right foot. Became common in F1 in the 1990s.",
+    "example": "\"Since then, left-foot braking has become standard in F1.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "LIFT AND COAST",
+    "description": "Driving technique 'lifting' off the throttle and 'coasting' into a corner, using less fuel. Refuelling is not allowed in F1, so drivers must manage their fuel load properly if they want to finish the race.",
+    "example": "\"I had to lift and coast for a few laps to save some fuel.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "LOCK-UP",
+    "description": "When a wheel completely stops rotating (i.e. lock) while other wheels continue to move - usually because of too much force applied to the brakes. Smoke can be seen from the locking tyre as it grinds over the track surface, and a driver may suffer a 'flat spot'.",
+    "example": "\"I locked up into the corner and there wasn't much I could do.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "MARBLES",
+    "description": "Small pieces of rubber shredded from a tyre during a session that then build up off the racing line. Driving over them can be treacherous as they stop the tyre surface making full contact with the track.",
+    "example": "\"I went wide onto the marbles and almost lost control at the hairpin.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "MARSHAL",
+    "description": "Volunteer who supports various trackside operations and plays a crucial role in ensuring an event runs safely. Marshals are stationed at different points around the circuit and assist with safety operations such as clearing the track after an incident, or waving flags to alert drivers of possible hazards.",
+    "example": "\"Full credit to the marshals there. We couldn't go racing without them.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "MEDICAL CAR",
+    "description": "Rapid response car deployed to provide medical assistance when needed. A certified doctor joins a designated driver in the Medical Car. At the start of a race, the Medical Car lines up behind the grid and follows around the first lap in case of any incidents.",
+    "example": "\"The Medical Car has now arrived at the scene of the accident.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "MEDICAL CENTRE",
+    "description": "Facility required at every F1 circuit to provide medical assistance. Drivers will be taken to the Medical Centre if they need any precautionary checks or immediate medical support after an incident. If further assistance becomes necessary, they will be transferred to a local hospital.",
+    "example": "\"Despite getting out of the car unaided, that was a big impact and they've been taken to the Medical Centre for checks.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "MEDIUM TYRE",
+    "description": "Slick tyre compound with a level of durability between the hard tyre (most durable, less grip/speed) and the soft tyre (least durable, more grip/speed). Identifiable by the yellow on the sidewalls. Like the hard compound, the medium tyre is considered a good option for longer race distances.",
+    "example": "\"Most of the grid have chosen to start the race on the medium tyre.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "MGU-H",
+    "description": "Motor Generator Unit - Heat. Former component of the hybrid power unit that recovered thermal energy from exhaust gases for deployment elsewhere. Removed from F1 power units as part of the 2026 regulations.",
+    "example": "\"While very effective, the MGU-H was a complicated system. Removing it makes the F1 power unit less complicated and more attractive to manufacturers.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "MGU-K",
+    "description": "Motor Generator Unit - Kinetic. Component of the hybrid power unit that recovers energy from the car's brakes for deployment elsewhere. From 2026, the MGU-K is nearly three times as powerful as before, able to recover energy at a greatly increased rate when the car is braking, coasting or even on throttle. Drivers are allocated a set number of MGU-K per season and will receive a penalty if they exceed that.",
+    "example": "\"They've received a penalty for exceeding their allocation after changing the MGU-K overnight.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "MONOCOQUE",
+    "description": "Key area of the car in which the cockpit is located. French for 'single shell', and sometimes referred to as a survival cell, the monocoque offers protection in the event of a crash. Also known as the monocoque chassis.",
+    "example": "\"Fortunately the monocoque didn't suffer any damage in the incident.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "NIGHT RACE",
+    "description": "Race held in the evening (or later), with floodlights illuminating the circuit after darkness has fallen. The 2008 Singapore Grand Prix was the first F1 night race.",
+    "example": "\"It's a night race, so the action will take place under the lights this weekend.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "NET ZERO BY 2030",
+    "description": "Sustainability strategy launched by Formula 1 in 2019 to become Net Zero Carbon by 2030. F1 is firmly on track to achieve its target, driven by cross-sport collaboration with Formula 1 teams, partners, promoters, and the FIA.",
+    "example": "\"Formula 1 is committed to be Net Zero by 2030, with a significant reduction of the sport's carbon footprint already.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "OPTION TYRE",
+    "description": "Softer slick tyre choice. F1 drivers have to use at least two different dry-weather tyre compounds during a Grand Prix, so one compound becomes the harder, more durable 'prime' tyre, while the other becomes the softer, faster 'option'. The medium tyre could therefore be either a prime or an option tyre, depending on the other compound used.",
+    "example": "\"It looks like the option tyre could be the best choice for this stint.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "OUTBRAKE",
+    "description": "Attempt to brake later than another driver when trying to overtake. Braking too soon is slow, while braking too late risks taking a corner too quickly (potentially going off the track) or braking too hard and locking up.",
+    "example": "\"They've tried to outbrake the car ahead, left it far too late and gone off!\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "OUT-LAP",
+    "description": "Lap when a driver makes their way out of the pits. In Qualifying, this generally comes just before a flying lap, and a driver will use it to bring the car up to temperature. During a race, it's the lap immediately after a driver has made a pit stop.",
+    "example": "\"They're on an out-lap, coming around the final corner now before pushing on their flying lap.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "OUTPERFORMING THE CAR",
+    "description": "Driver performing much better than expected because their skill behind the wheel overcomes any car limitations - i.e. their car might not be highly rated, but their results have been good.",
+    "example": "\"The standings suggest they have been consistently outperforming that car all season with some impressive results.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "OVERALLS",
+    "description": "Race suit. Made from fire-retardant material, race suits are a crucial piece of safety equipment. Overalls typically feature team branding, and are worn by drivers and others, including mechanics and marshals.",
+    "example": "\"Some of the drivers are sporting special overalls this weekend.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "OVERCUT",
+    "description": "Race strategy that sees a chasing driver pit later than the driver ahead of them in the hope of gaining an advantage. The aim is to stay on track longer than driver ahead, overtake them when they come in for their pit stop, and then build a gap over them before then pitting themselves.",
+    "example": "\"They've not come in, so it looks like they're staying out and trying the overcut.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "OVERSTEER",
+    "description": "When a car turns more than the steering input from the driver. The rear wheels lose grip as the back end of the car begins to drift outwards. Opposite of understeer.",
+    "example": "\"The car was oversteering all over the place.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "OVERTAKE MODE",
+    "description": "Power unit mode replacing DRS to aid passing on track. Overtake can only be activated when a driver is within a second of the car in front at the detection point, but the advantage comes from the energy store and it's incredibly strategic. Overtake can be used all lap (not just in specific zones), so drivers can choose to unleash it all in one burst, or spread it out over a lap. Introduced as part of the 2026 regulations.",
+    "example": "\"Overtake allows a driver to sustain a higher speed for a longer period, and can only be used on the following lap.\"",
+    "category": "K-O",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-k-o.6g2hrWHA2pyxbXoe8FT9Db"
+  },
+  {
+    "term": "PACKAGE",
+    "description": "Car specification or updates. When a team brings an upgrade of new parts, this is often called a package.",
+    "example": "\"The team will be hoping that their new aerodynamic package delivers this weekend.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PADDLES",
+    "description": "Levers located on the back of the steering wheel, used to operate the clutch and change gears.",
+    "example": "\"I had an issue with the clutch paddle at the start.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PADDOCK",
+    "description": "Circuit area behind the pit lane and garages where teams have their motorhomes, transporters and equipment. An enclosed space with limited access, the paddock is where team members and people with various jobs - ranging from hospitality to the media - are based during a race weekend.",
+    "example": "\"There has been a lot of talk about the driver market in the paddock this weekend.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PADDOCK CLUB",
+    "description": "F1 premium hospitality offering an immersive experience during a race weekend. Fans can watch the action unfold from above the pit lane and team garages, enjoying benefits such as guided tours, behind-the-scenes access and luxury cuisine.",
+    "example": "\"Guests have a fantastic view of the grid and pit lane in the F1 Paddock Club.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PARC FERMÉ",
+    "description": "Restricted area where the cars are parked and monitored by the FIA, ensuring they are safe and legal. From the French for 'closed park', no work can be done on the car when in this area. A car in parc fermé conditions (where similar rules apply but the cars themselves are elsewhere, e.g. the garage) can have some minor work carried out under the watchful eyes of a scrutineer. If parc fermé rules are broken, the car is forced to start the race from the pit lane.",
+    "example": "\"It's the start of Qualifying, which means the cars are in parc fermé conditions and no changes can be made to their set-ups.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PIT BOARD",
+    "description": "Board physically held out by a team from the pit wall to display information to their driver. Despite the increased use of radio communications, pit boards are still used frequently, and are vital in case there's a problem with the radio. For example, they might tell a driver they need to pit, show their current position, the gap to another car, or the number of laps remaining.",
+    "example": "\"I think the radio might have failed as that pit board is telling them to come into the pits.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PIT LANE",
+    "description": "Section of track providing access to the pit boxes and garages. Drivers enter at the pit entry, where they must have slowed down enough to obey the pit lane speed limit. After making a pit stop in their pit box outside the team's garage, the driver rejoins the pit lane and re-enters the circuit via the pit exit, where they can accelerate to racing speed.",
+    "example": "\"So many cars have come in at the same time, they risk tripping over each other in the pit lane.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PIT STOP",
+    "description": "Stopping in the pit box during a race to have the tyres changed or any repairs carried out. At least one pit stop is mandatory during a Grand Prix (but not in the F1 Sprint). A driver stops the car outside of their team's garage, and the pit crew then make any changes as quickly as possible. An F1 pit crew can change all four tyres in under two seconds!",
+    "example": "\"That was a lightning-fast pit stop from the team when they really needed it!\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PIT WALL",
+    "description": "Area separating the pit lane from the track itself. Senior members of each team - such as team principals, engineers and strategists - can sit here and monitor data during a session, communicating with drivers via the radio or pit boards.",
+    "example": "\"The race engineer doesn't look too impressed about that on the pit wall!\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PIT WINDOW",
+    "description": "Period during a race when pit stops are anticipated. Data - the expected lifespan of the tyres, for example - enables teams to predict when might be best to make a stop. This is factored into race strategies, and a driver is therefore not likely to make a pit stop until the pit window is 'open'.",
+    "example": "\"They've completed 22 laps on this tyre now, so the data suggests we're in the pit window. How quickly will they want to make a change?\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PITS",
+    "description": "Collective term for area of the circuit with the pit lane, pit wall and team garages.",
+    "example": "\"They're coming into the pits now for another stop.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PLANK",
+    "description": "Skid block. Flat rectangle, usually made of fiberglass, fitted underneath the car and must maintain a certain thickness to ensure teams are not breaking the rules and running their cars too close to the ground. If the plank is found to have worn down too much after a race (by repeatedly hitting the track surface, for example), the car will be disqualified.",
+    "example": "\"They were disqualified after the race for excessive plank wear.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PODIUM",
+    "description": "Raised platform where the top three drivers are given their trophies after a race. Podium is often used to refer to a top-three finish.",
+    "example": "\"That was a well-earned podium after starting from a midfield grid slot.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "POINTS",
+    "description": "Award for those who finish in the leading positions of a race. Points are awarded to the top 10 finishers of a Grand Prix, with the winner receiving 25 points (then scaling down to one point for 10th place). In a Sprint, the top eight finishers earn points - eight for the winner, down to one point for P8. The driver and team that earn the most points over a season become World Drivers' Champion and World Constructors' Champion, respectively.",
+    "example": "\"What a result! With both drivers finishing in the points, the team have significantly added to their tally.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "POLE POSITION",
+    "description": "First starting grid slot. When a driver starts a race from the very front of the grid - more often than not because they set the fastest time in Qualifying - they arguably have an advantage by starting ahead of everyone else. Often shortened to 'pole'.",
+    "example": "\"They're on pole this afternoon, the third time they've started from pole position this season.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "POLESITTER",
+    "description": "Driver starting the race from pole position.",
+    "example": "\"As the polesitter, they'll be desperate for a good start and to get to the first turn without any trouble.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "POWER UNIT",
+    "description": "Combination of components that power an F1 car. Together, the Internal Combustion Engine (ICE), Turbocharger (TC), Motor Generator Unit - Kinetic (MGU-K), Energy Store (ES), Control Electronics (PU-CE) and Engine Exhaust Sets (EXH) form the hybrid Power Unit (PU). Sometimes called a powertrain.",
+    "example": "\"From 2026, the power unit will supply an almost 50/50 power split between Advanced Sustainable Fuel and electrical energy.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PRACTICE",
+    "description": "Free Practice. Sessions held at the beginning of a race weekend that teams use to set up the car, get familiar with the track, and perhaps test new parts - all to get their machines into the best possible shape. There are generally two hour-long practice sessions on the first day of a Grand Prix weekend, before a third and final practice hour on the second day ahead of Qualifying. During a Sprint weekend there is only one Free Practice session held, pressuring teams to get up to speed quickly.",
+    "example": "\"They're looking good this weekend after setting the pace in practice on Friday.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PRE-SEASON",
+    "description": "Period before a season starts. Various events and preparations take place ahead of a new season, including car launches, livery reveals and testing. Pre-season testing is particularly important for teams and drivers, being the first opportunity to gain meaningful track time and collect vital data about their new car before the first race.",
+    "example": "\"There were plenty of talking points during the pre-season.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PRIME TYRE",
+    "description": "Harder slick tyre choice. F1 drivers have to use at least two different dry-weather tyre compounds during a Grand Prix, so one compound becomes the harder, more durable 'prime' tyre, while the other becomes the softer, faster 'option'. The medium tyre could therefore be either a prime or an option tyre, depending on the other compound used.",
+    "example": "\"They're starting the race on the prime tyre, looking to run longer through the early stages before pitting.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PROTEST",
+    "description": "Post-race appeal against a particular result or penalty. A protest will be considered by the FIA-appointed stewards, and if it is upheld, new action will be taken. If it is dismissed then there will be no changes made to the original outcome. Also known as a right of review request.",
+    "example": "\"The team have had a post-race protest rejected.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PULL-ROD",
+    "description": "Type of suspension configuration. Consists of a rod mounted on the car at a diagonal angle, connecting the top of a wheel to a torsion spring lower on the chassis. When the wheel goes over a bump, the rod is pulled up and outwards from the car.",
+    "example": "\"They're running a pull-rod configuration on the front suspension.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "PUSH-ROD",
+    "description": "Type of suspension configuration. Consists of a rod mounted on the car at a diagonal angle, connecting a torsion spring at the top of the chassis to a lower mount on the wheel. When the wheel goes over a bump, the rod is pushed upwards and towards the car.",
+    "example": "\"A push-rod configuration is being used on the rear suspension.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "QUALIFYING",
+    "description": "Session in which drivers compete to set the fastest lap time, with the order deciding the starting grid for the Grand Prix. Qualifying is a knock-out format of three parts - the slowest six drivers are eliminated at the end of the 18-minute-long 'Q1', the next slowest six exit after 'Q2' (15 minutes) and the remaining 10 drivers compete in 'Q3' (12 minutes) to be fastest of all and secure pole position.",
+    "example": "\"They've left themselves lots to do in the race, starting further back on the grid after a difficult qualifying session.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "R&D",
+    "description": "Research and Development. Work undertaken by a team to develop or improve various components or systems in the car.",
+    "example": "\"The team have invested heavily in their R&D to make this car quicker.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RACE CONTROL",
+    "description": "Team responsible for monitoring all sessions during a race weekend and ensure that the rules are followed correctly. Race Control - led by the Race Director - will make important decisions during a session (such as deploying the Safety Car) while referring potential rules breaches to the stewards.",
+    "example": "\"The incident has been noted by Race Control.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RACE DIRECTOR",
+    "description": "FIA official responsible for all on-track activities. The Race Director leads Race Control and makes decisions during a session, such as the showing of a red flag. They issue event notes ahead of each race weekend, setting out various rules - including track limits, for example.",
+    "example": "The Race Director has decided to stop the race and have the barrier repaired.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RACING LINE",
+    "description": "Fastest route around a track. The racing line generally uses the full width of the track, extending the radius of each turn. Drivers experiment to find the optimum racing line. It's not always the shortest route, but one that enables a driver to carry as much speed as possible and minimise time spent in corners.",
+    "example": "\"A driver should move out of the way and off the racing line while they're slower on an in-lap.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RAKE",
+    "description": "Difference in ride height between the front and rear of the car. A high-rake car has a noticeably higher ride height at the rear, creating a steeper angle up from the front of the car (where it will be running closer to the ground). This can increase airflow around the diffuser. A low-rake car has a less dramatic angle.",
+    "example": "\"The team look to be running a high-rake concept.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "REAR WING",
+    "description": "Bodywork with curved, streamlined surfaces attached to the rear of the car. Essentially acts a bit like an upside-down aircraft wing, with the air flowing over it generating downforce (rather than lift!) to push the car down onto the track.",
+    "example": "\"Is that some damage to the rear wing? That might explain why they're struggling for traction.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RECHARGE",
+    "description": "Power unit mode replenishing the energy store. Working with their Race Engineer, drivers can select from different modes to recharge their battery with recovered energy harvested under braking, on throttle lift at the end of straights, or even in corners where drivers are only applying part power. Introduced as part of the 2026 regulations.",
+    "example": "\"For the most part, Recharge will be automated, handled by engine maps prepared in advance, but drivers have the ability to override that.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RECONNAISSANCE LAP",
+    "description": "Lap completed before assembling on the starting grid for the race. If a driver needs to complete more than one reconnaissance lap, they must pass through the pit lane rather than the grid itself.",
+    "example": "\"They'll all be using their reconnaissance laps to judge how wet the track is in places.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RED FLAG",
+    "description": "Plain red flag waved to signal that the session has been stopped. Reasons for a red flag include severe weather conditions, a hazard on track or a serious incident. Waved at the start line and at every marshal post around the circuit, drivers must reduce their speed and return slowly to the pit lane.",
+    "example": "\"A red flag! The Race Director has thrown the red flag after that earlier incident.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "REPRIMAND",
+    "description": "Sanction issued to a driver instead of a full penalty. Similar to a warning, reprimands can be handed out for on-track or off-track incidents. A driver is allowed a maximum of four reprimands in a season and will be issued a penalty if they receive a fifth.",
+    "example": "\"They were issued with a reprimand over the incident last weekend.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RESERVE DRIVER",
+    "description": "Driver on stand-by to race should a nominated driver be unable to compete - due to injury or illness, for example. Each team has a designated reserve driver that they can call upon if needed. A reserve driver can also fulfil other team requirements, such as testing and simulator work. Sometimes called a Third Driver.",
+    "example": "\"The team might have to call upon the services of their reserve driver this weekend.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RETIREMENT",
+    "description": "When a driver is forced to exit a race before the end. Retiring the car can be necessary because of a mechanical issue or damage sustained from an on-track incident.",
+    "example": "\"They're pulling over and stopping the car! That's their third retirement of the season.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RIDE HEIGHT",
+    "description": "Distance between the underside of the car and the ground. A lower ride height means that the car will be running closer to the track surface.",
+    "example": "\"The team is running both cars with reduced ride heights this weekend.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RUBBERED-IN",
+    "description": "When the track surface has had plenty of tyre rubber shed on it, thus providing as much grip as it can. Over a race weekend, as more cars hit the track, 'rubbering-in' creates a layer of very small rubber pieces (coming off the tyres) on the racing line. This increases grip levels, enabling cars to go faster. A surface that hasn't been rubbered-in is considered 'green'.",
+    "example": "\"The track hasn't yet rubbered-in, so the times will get even quicker.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "RUN-OFF",
+    "description": "Area beyond the defined track limits that a driver may enter if they make an error or need to pull off the circuit. Run-off areas can be asphalt or tarmac (giving drivers space to brake and slow the car), or take the form of a gravel trap. Street circuits have few run-off areas.",
+    "example": "\"They've gone into the corner carrying too much speed and had to take to the run-off area.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SAFETY CAR",
+    "description": "Vehicle deployed to ensure that a race continues safely despite a hazard, such as an accident or in extreme weather. Drivers need to slow down and queue behind the Safety Car, which leads cars around the track at a lower speed until it is deemed safe to return to normal racing conditions. No overtaking is allowed behind the Safety Car.",
+    "example": "\"The Safety Car has been deployed while the track is cleaned up after that earlier incident.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SANDBAGGING",
+    "description": "Term describing a team deliberately putting in slower-than-expected laps to hide the true pace of their car - usually by using a lower power unit setting or adding extra weight. Cars may be carrying more fuel or extra ballast to slow them down. Sandbagging may happen in pre-season testing or practice if a team wants to knowingly downplay their potential - for example, because they don't want to give rivals time to copy their design or set-up.",
+    "example": "\"The car appeared to be slow in pre-season testing, but could the team have been sandbagging?\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SCRUBBED TYRE",
+    "description": "Tyre that has already been lightly used, and is therefore likely to reach optimum temperature faster than a brand new one. Also known as a heat cycle. Such tyres may have been used for a small number of laps during practice, for example.",
+    "example": "\"Looks like they're on a set of scrubbed tyres, rather than a fresh set.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SCRUTINEERING",
+    "description": "Process of checking cars during a race weekend to ensure they comply with the regulations. The checks are carried out by FIA technical delegates.",
+    "example": "\"There was an issue flagged during the scrutineering process after the session.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SCUDERIA",
+    "description": "Nickname for the Ferrari team in F1. From the Italian for 'stable', it's a reference to their team name - Scuderia Ferrari.",
+    "example": "\"It's been a strong weekend for the Scuderia.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SECTOR",
+    "description": "Sections that make a full lap. A lap in F1 is split into three sectors - Sector 1, Sector 2 and Sector 3 - which show where each driver is quickest. A driver's sector time will show in a different colour, depending on how quick it is. A 'purple sector' shows if the time set is the fastest time of all. A 'green sector' shows if the time set is the driver's personal best time. All other, slower, sector times will appear in yellow.",
+    "example": "\"They're green in the first sector, have just gone purple in the second sector... This could be good for pole position!\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SET-UP",
+    "description": "Combination of equipment and settings on a car. Teams are always looking for an optimised set-up, trying to make the car as fast as possible while ensuring they can finish the race. A set-up will likely be worked on by analysing data and driver feedback from a simulator before further adjustments are then made at the track.",
+    "example": "\"I'm really happy. We found a great set-up and the car was incredible to drive.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SESSION",
+    "description": "Period of on-track running during a race weekend. Commonly used to refer to periods of Free Practice - with three practice sessions in a typical Grand Prix weekend - but Qualifying can also be called a session.",
+    "example": "\"Drivers were able to really explore the limits of the track in that session.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SHAKEDOWN",
+    "description": "A preliminary track session (or event) a team can use to run their new car for the first time. The primary aim is to carry out reliability checks and make sure everything is working as it should.",
+    "example": "\"The team will run the car for the first time at a private shakedown next week.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SIDEPOD",
+    "description": "Aerodynamically-shaped sections of the car on either side of the cockpit. Designed to direct airflow, radiators cooling the power unit are found in the sidepod - as are crucial safety structures protecting drivers from side impacts.",
+    "example": "\"With the new car concept, the team have radically changed the shape of the sidepods.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SIMULATOR",
+    "description": "Technology allowing drivers and teams to virtually simulate sessions on track. Teams have sophisticated simulators at their factories, where drivers sit in a cockpit and experience racing on track in the most realistic way possible without physically being there. Many drivers also choose to have a simulator of some sort in their own homes.",
+    "example": "\"It's a new circuit, so I put in a lot of hours on the simulator to get a feel for it before coming here.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SLICKS",
+    "description": "Completely smooth tyre for use in dry conditions. Various compounds of slick tyre are available for use during a race weekend.",
+    "example": "\"With the track drying out, a few drivers are gambling and changing to slicks. Is it too soon?\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SLIPPERY SURFACE FLAG",
+    "description": "Yellow and red striped flag shown to drivers to signal a slippery track surface ahead (perhaps because of oil or water). Warns a driver to expect lower grip levels, enabling them to adapt their driving accordingly.",
+    "example": "\"The slippery surface flag is being shown at Turn 7.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SLIPSTREAM",
+    "description": "Aerodynamic benefit gained by a chasing car when following the car in front. The car behind suffers less resistance from the air, meaning it can go quicker and gain more speed. A slipstream is generally most noticeable on a long straight, where a chasing car can catch and overtake. Also known as a tow.",
+    "example": "\"They're closing in fast with the slipstream, could this be the overtake!?\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SOFT TYRE",
+    "description": "Least durable compound of slick tyre, identifiable by the red on the sidewalls. Soft tyres offer more grip than harder tyres, making them faster. However, they degrade much more quickly. They're usually the tyre of choice for setting the fastest possible lap.",
+    "example": "\"They've just set the fastest time of the session using the soft tyre.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SPEED TRAP",
+    "description": "Speed measuring device placed at a certain point on the track. Usually located at the fastest part of the circuit - such as the end of a long straight - speed trap data can provide valuable information to teams.",
+    "example": "\"They've looked impressive and are fastest through the speed trap today.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SPORTING REGULATIONS",
+    "description": "FIA rules governing various aspects of Formula 1, covering a range of topics including safety, scheduling and standards - both on-track and off-track.",
+    "example": "\"Changes to the Sporting Regulations have been approved for the new season.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SPRINT QUALIFYING",
+    "description": "Session in which drivers compete to set the fastest lap time, with the order deciding the starting grid for the F1 Sprint. Sprint Qualifying is a knock-out format of three parts - the slowest six drivers are eliminated at the end of a 12-minute-long 'SQ1', the next slowest six exit after 'SQ2' (10 minutes) before the remaining 10 drivers compete in 'SQ3' (8 minutes) to be fastest of all and secure pole position in the following day's Sprint.",
+    "example": "\"Claiming pole in Sprint Qualifying has put them in prime position for a Sprint victory tomorrow.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "STALL",
+    "description": "When a car won't launch because the engine cuts out. This can occur if a driver has an issue with the clutch paddle, or if there is a technical problem causing the revs to drop too low. F1 cars are equipped with 'anti-stall' systems to protect power units from damage and keep the car from cutting out completely to give a driver the chance to reengage the clutch.",
+    "example": "\"They've stalled it! What a horrible start!\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "STEWARD",
+    "description": "Official appointed by the FIA to ensure that the regulations are followed over a race weekend. A team of race stewards investigate incidents and issue any punishments (if necessary). Incidents may be investigated during a session or immediately afterwards. The drivers and teams involved may be summoned to the stewards room to give their view on what happened and why.",
+    "example": "\"The incident will be investigated by the stewards after the race.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "STOP-GO PENALTY",
+    "description": "Penalty given to a driver who must then visit the pit lane and stop in their pit box for a designated amount of time - often 10 seconds - before rejoining the race. No work is allowed to be done on the car during this stop.",
+    "example": "\"The stewards have issued them a stop-go penalty, so they'll have to come into the pits and serve that.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SUPER LICENCE",
+    "description": "FIA Racing Super Licence. Qualification needed by a driver in order to compete in Formula 1. As well as meeting some fundamental requirements, including being at least 18 years of age at the start of their first F1 competition, drivers need to accumulate at least 40 points (based on championship finishing positions) from an FIA competition list to achieve a super licence. Winning the Formula 2 title would secure 40 points, for example, while winning Formula 3 (or Formula E) would earn a driver 30 points.",
+    "example": "\"There's lots of talk about this young driver, and they've earned enough super licence points to race in F1 should the team want to give them a seat.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "SUSPENSION",
+    "description": "System absorbing the impact of bumps or uneven surfaces on the car - kerbs being a good example. The suspension system on an F1 car can be complex and feature differences in the front and rear, including pull-rod and push-rod configurations to cope with the forces.",
+    "example": "\"We've been experiencing issues with the rear suspension all weekend.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TANKSLAPPER",
+    "description": "Rear of the car violently stepping out sideways from the front to send a car into a spin. A driver needs lightning-fast reactions to correct it and bring the car back under control.",
+    "example": "\"That was an almost superhuman reaction to catch that tankslapper!\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TEAM PRINCIPAL",
+    "description": "Person in charge of an F1 team. Team Principals are responsible for managing various aspects of the operation, ranging from project and people management to representing the team at briefings and in the media.",
+    "example": "\"As the Team Principal they are the leader of the team and they make crucial decisions.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TEAR-OFF STRIP",
+    "description": "Thin strip of see-through film fitted to a driver's helmet visor. A driver will peel off a strip when it becomes dirty during a session, helping them to see more clearly through the clean strip below.",
+    "example": "\"You can see how dusty it is out there, as they use yet another tear-off strip.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TECHNICAL DIRECTIVE",
+    "description": "Guidance issued by the FIA regarding a particular technical issue, often to clarify the regulations and ensure that the rules are being followed properly by all teams.",
+    "example": "\"A Technical Directive has been issued ahead of this weekend's race, given all the recent talk in the paddock.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TECHNICAL DIRECTOR",
+    "description": "Person overseeing the technical department of an F1 team. The Technical Director will perform a range of duties, including managing a team's technical organisation and overseeing the direction of a car's build. Technical Directors will often have many years of engineering experience.",
+    "example": "\"The team appointed a new Technical Director ahead of the season.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TECHNICAL REGULATIONS",
+    "description": "FIA rules the teams must follow when building their cars. The regulations cover various technical features of the car, including the weight, safety equipment, power unit, fuel system, aerodynamics and more.",
+    "example": "\"A new set of Technical Regulations have come into effect for the 2026 season.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TECPRO",
+    "description": "Crash barrier used to minimise the force of impact in a crash, and prevent the car from bouncing back onto the track. The barriers are connected blocks made of flexible polyethylene.",
+    "example": "\"They've gone off and hit the Tecpro with some force there, but it did its job.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TELEMETRY",
+    "description": "Real-time data that can be used by a team to analyse a car's performance while it is out on track.",
+    "example": "\"We need to really analyse the telemetry to see what we can learn.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TEMPLE OF SPEED",
+    "description": "Nickname for the Autodromo Nazionale Monza, better known to many simply as Monza. The venue has hosted the Italian Grand Prix every year bar one since 1950, and its nickname was earned because of the incredible speeds seen at the circuit.",
+    "example": "\"Here we are then, the Temple of Speed, and the drivers simply love it here.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TESTING",
+    "description": "On-track testing event to collect valuable data in real world conditions (as opposed to the simulator). F1 testing is much more restricted than in the past. Pre-season testing - where all teams take part in an official event before a new season - is the biggest opportunity teams get to properly understand their machines. There is also a short post-season test, where teams might put a different driver behind the wheel and evaluate their performance. Other forms of testing during the season may include official tyre tests, run by the tyre manufacturer.",
+    "example": "The teams return to action for pre-season testing, eager to see what their cars can do.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TIFOSI",
+    "description": "The name given to passionate fans of Ferrari, often seen in huge numbers at events in Italy.",
+    "example": "\"The Tifosi will be thrilled with that result for Ferrari!\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TOE",
+    "description": "Angle that the wheels point in relation to the car's centreline. 'Toe in' refers to the front of the wheel pointing inwards, towards the car, while 'toe out' is used when they are angled outwards. A car will usually be run toe out at the front and toe in at the rear, to cope with the forces experienced while driving at speed. Also known as tracking.",
+    "example": "\"We're running the car toe in at the rear.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TORQUE",
+    "description": "Force produced by an engine. While horsepower measures speed, the torque is the twisting force which creates that drive. Torque helps the car to accelerate.",
+    "example": "\"That engine seems to have a good amount of torque.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TRACK",
+    "description": "Motor racing circuit. A street track is a race course made up of public roads, in a city or park, that have been temporarily closed to host a race - think Las Vegas, Monaco or Singapore. Other tracks are purpose-built venues designed specifically for motorsport, like Circuit of The Americas, Shanghai International Circuit or Suzuka Circuit.",
+    "example": "\"This track is a particular favourite with many of the drivers.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TRACK LIMITS",
+    "description": "Boundaries around the edge of a track, usually a single solid white line. If all four wheels cross this line, a driver will have their lap time deleted. Should they exceed track limits several times, they will be issued with a penalty.",
+    "example": "\"Okay. You've been given a warning for track limits at Turn 9.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TRACK TEMPERATURE",
+    "description": "Temperature of the track surface. Often much higher than the air temperature due to the surface soaking up heat. Track temperature impacts tyres, with warmer conditions likely to cause wear at a faster rate. Colder conditions can result in tyres taking longer to reach optimum temperature.",
+    "example": "\"The track temperature has risen considerably since this morning's session.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TRACTION",
+    "description": "Power a car transfers onto the track through its wheels to move. Linked to grip, traction can be affected by various factors, such as power unit settings, tyre compounds, weather and track conditions.",
+    "example": "\"They just get any traction in these conditions, and you can see the rear wheels are just spinning while they go nowhere.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TURBULENCE",
+    "description": "Disrupted airflow. F1 cars operate at their best when air flows smoothly over the surfaces to generate aerodynamic downforce. Turbulent air (often called 'dirty' air) can make a car harder to drive and prevent close racing, so the current generation of car has been designed to be less sensitive to turbulence.",
+    "example": "\"There's less turbulence coming off these new cars, so I could get much closer and race harder for longer.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TURBOCHARGER",
+    "description": "Power unit component. Uses exhaust gases to rotate a turbine, compressing air into cylinders and improving power unit output. Drivers are allocated a specific number of turbochargers per season and will receive a penalty if this is exceeded.",
+    "example": "\"We had to fit a new turbocharger ahead of the session.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TYRE BARRIER",
+    "description": "Crash barrier used to minimise the force of impact in a crash. The barriers are made from stacks of used tyres bolted together, and often painted.",
+    "example": "\"You can see, the car went straight off the track and into the tyre barrier.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "TYRE BLANKET",
+    "description": "Electric blankets wrapped around an entire tyre to heat it to optimum temperature before a car starts running on track. Sometimes called a tyre warmer.",
+    "example": "\"The mechanics are removing the car's tyre blankets in the garage, so they'll be on track very shortly.\"",
+    "category": "P-T",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-p-t.GBhLQtpeu9b8LrK5VM0F1"
+  },
+  {
+    "term": "UNDERCUT",
+    "description": "Race strategy that sees a chasing driver pit earlier than the driver ahead of them in the hope of gaining an advantage. The aim is to lap faster (on fresher tyres) than the driver ahead and overtake them - when they come in for their own pit stop later, for example. The driver ahead might be called in to pit immediately afterwards however, to 'cover off' the undercut attempt and remain in front.",
+    "example": "\"Are the team going to try and cover off the undercut now, or leave them out there a bit longer?\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "UNDERSTEER",
+    "description": "When a car turns less than the steering input from the driver. The front wheels lose grip and a driver risks running wide. Opposite of oversteer.",
+    "example": "\"We need to change the set-up. I'm getting a lot of understeer.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "UNSAFE RELEASE",
+    "description": "Car released into the pit lane (from its garage or pit box) when it is not deemed safe to do so - for example, when it endangers others. Doing so will result in a penalty.",
+    "example": "\"They're under investigation by the stewards for a potential unsafe release.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "UPGRADE",
+    "description": "New car part or component a team has developed. Teams may bring upgrades throughout the season, after much R&D, with the aim of improving performance. A collection of upgrades might be referred to as a package.",
+    "example": "\"The team will obviously be hoping that this upgrade delivers the expected results.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "VISOR",
+    "description": "Transparent screen on a helmet that protects a drivers eyes. Visors can be tinted to better shield eyes from bright light, and will have several tear-off strips fitted to it so a driver can maintain clear vision during a session.",
+    "example": "\"I'm going to need a different visor. This one is too dark.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "VSC",
+    "description": "Virtual Safety Car. Deployed to ensure that a race continues safely despite an incident, without deploying the Safety Car itself. Drivers need to slow down immediately and maintain a set time - maintaining the existing gaps between them on track. This prevents any overtaking. The VSC can be recalled at any time, unlike the Safety Car (which returns to the pits before drivers can resume racing speeds).",
+    "example": "\"They've called for the Virtual Safety Car so the marshals can remove that debris from the track.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "WEAR",
+    "description": "Process of a component degrading, causing a reduction in performance. Tyre wear, when the tyre surface deteriorates through continued use, is the most obvious example - but all components wear over time through use.",
+    "example": "\"I really struggled with tyre wear today, so we'll need to look into that.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "WETS",
+    "description": "Tyre compound used for very wet conditions, identifiable by the blue on the sidewalls. Full wet tyres - or 'wets' - offer the most grip during heavy rain but create a lot of spray, making it harder for drivers behind to see.",
+    "example": "\"The conditions are worsening, so drivers are starting to pit for wets.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "WHEEL GUN",
+    "description": "Equipment used by the pit crew when changing tyres. The pneumatic tool features a trigger which, when pulled, will either rapidly loosen or tighten a wheel nut, enabling a tyre to be removed or fitted extremely quickly.",
+    "example": "\"That was a slow pit stop. It looked like a problem with the wheel gun.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "WHEELBASE",
+    "description": "Distance between the centre points of the front and rear wheels on a car. The length of the wheelbase can have an impact on handling. The wheelbase was shortened as part of the 2026 regulations, making cars more agile and responsive.",
+    "example": "\"The new car has a shorter wheelbase than before.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "WHITE FLAG",
+    "description": "Plain white flag shown to a driver to signal that there is a slow-moving vehicle ahead. It is also used at the end of a practice session when drivers can be on the grid practicing their race start procedure.",
+    "example": "\"That's the end of FP2, and you can see the white flag is being shown as a few of the drivers line up on the grid.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "WIND TUNNEL",
+    "description": "Large tunnel with a huge fan at one end, forcing air over a model F1 car to reproduce airflow. Used alongside CFD testing to research aerodynamic performance, teams are restricted in the number of wind tunnel hours they can use, based on where they finished in the championship the season before.",
+    "example": "\"The wind tunnel helps F1 teams test out computer simulations in conditions similar to real life.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "WORLD MOTOR SPORT COUNCIL",
+    "description": "FIA body that decides various aspects of international motorsport. It meets at least three times a year to decide on rules, regulations, safety and development of motorsport at every level from karting to Formula 1. Also known as the WMSC.",
+    "example": "\"The new regulations have been approved by the World Motor Sport Council.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "YELLOW FLAG",
+    "description": "Plain yellow flag shown to signal that there is a potential hazard ahead. A single waved yellow flag means that there is a hazard next to, or partly on, the track and drivers must slow down, not overtake and be prepared to change direction. Double-waved yellow flags signify that a hazard is partly or wholly blocking the track, and drivers must significantly reduce their speed, not overtake, and be prepared to change direction or stop.",
+    "example": "\"It looks like somebody might have spun in Sector 2. The yellow flags are out.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  },
+  {
+    "term": "ZYLON",
+    "description": "Exceptionally strong synthetic material with anti-penetration properties. Used in cars and helmets to improve safety in event of an incident.",
+    "example": "\"That was a big crash, but the Zylon tether stopped the wheel from coming away and bouncing back into the track.\"",
+    "category": "U-Z",
+    "source": "https://www.formula1.com/en/latest/article/f1-glossary-u-z.5JSlDsnyvYmbK0TCjTs7KB"
+  }
+]
