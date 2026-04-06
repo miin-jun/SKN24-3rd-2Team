@@ -11,7 +11,7 @@ year = datetime.now().year
 def get_live_race(query: str) -> str:
     """실시간 레이스 정보가 필요할 때 사용"""
     data = openf1.get_live_data()
-    return str(data)
+    return str(data).encode('utf-8', errors='ignore').decode('utf-8')
 
 @tool
 def get_past_race(query: str) -> str:
@@ -24,7 +24,7 @@ def get_past_race(query: str) -> str:
         target_year = year
 
     data = ergast.get_season_data(target_year)
-    return str(data)
+    return str(data).encode('utf-8', errors='ignore').decode('utf-8')
 
 @tool
 def get_round_race(query: str, round: int) -> str:
@@ -39,10 +39,10 @@ def get_round_race(query: str, round: int) -> str:
         target_year = year
 
     data = ergast.get_round_data(target_year, round)
-    return str(data)
+    return str(data).encode('utf-8', errors='ignore').decode('utf-8')
 
 @tool
 def search_regulations(query: str) -> str:
     """F1 규정 설명이 필요할 때 사용"""
     response = rag_invoke(query)
-    return response["answer"]
+    return str(response["answer"]).encode('utf-8', errors='ignore').decode('utf-8')

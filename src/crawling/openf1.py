@@ -161,54 +161,26 @@ def get_weather(session_key):
     return None
 
 
-def get_live_data():
-    """챗봇에 넘길 실시간 데이터 한 번에 수집 반환"""
+def get_live_data(mode="basic"):
+    """실시간 데이터 한 번에 수집 반환"""
     session, is_live = get_current_session()
     session_key = session["session_key"]
     year = session["year"]
 
-    drivers = get_drivers(session_key)
-    driver_map = {d["driver_number"]: d for d in drivers}
-    
-    car_data = get_car_data(session_key)
-    race_control = get_race_control(session_key)
-    position = get_position(session_key)
-    pit_stops = get_pit_stops(session_key)
-    stints = get_stints(session_key)
-    intervals = get_intervals(session_key)
-    championship_drivers = get_championship_drivers(year)
-    championship_teams = get_championship_teams(year)
-    laps = get_laps(session_key)
-    location = get_location(session_key)
-    overtakes = get_overtakes(session_key)
-    session_result = get_session_result(session_key)
-    starting_grid = get_starting_grid(session_key)
-    weather = get_weather(session_key)
-    meetings = get_meetings(year)
-
-    return {
+    base = {
         "is_live": is_live,
-        "session": {
-            "session_key": session_key,
-            "session_name": session["session_name"],
-            "circuit": session["circuit_short_name"],
-            "country": session["country_name"],
-            "year": year,
-        },
-        "driver_map": driver_map,
-        "car_data": car_data,
-        "race_control": race_control,
-        "position": position,
-        "pit_stops": pit_stops,
-        "stints": stints,
-        "location": location,
-        "intervals": intervals,
-        "championship_drivers": championship_drivers,
-        "championship_teams": championship_teams,
-        "laps": laps,
-        "overtakes": overtakes,
-        "session_result": session_result,
-        "starting_grid": starting_grid,
-        "weather": weather,
-        "meetings": meetings,
+        "session": session,
+        "position": get_position(session_key),
+        "race_control": get_race_control(session_key),
+        "championship_drivers": get_championship_drivers(year),
+        "championship_teams": get_championship_teams(year),
+        "meetings": get_meetings(year),
     }
+
+    if mode == "detail":
+        base["pit_stops"] = get_pit_stops(session_key)
+        base["stints"] = get_stints(session_key)
+        base["intervals"] = get_intervals(session_key)
+        base["weather"] = get_weather(session_key)
+
+    return base
