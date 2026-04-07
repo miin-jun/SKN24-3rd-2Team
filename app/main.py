@@ -1,10 +1,10 @@
 import sys
 import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from langgraph.prebuilt import create_react_agent
 from langchain_core.messages import HumanMessage
 from src.chain.agent import llm, tools
-
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 PROMPT = """당신은 F1 전문 챗봇입니다.
 사용자의 질문에 따라 적절한 도구를 선택해 답변하세요.
