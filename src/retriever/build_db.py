@@ -214,8 +214,9 @@ glossary = load_glossary()
 wiki = load_wiki()
 tires = load_tires()
 regs = load_regulations()
+steward_docs = load_steward_decisions()
 
-chunks = chunk_all(glossary, wiki + tires, regs)
+chunks = chunk_all(glossary, wiki + tires + steward_docs, regs)
 print(f"최종 chunk 수: {len(chunks)}")
 
 save_to_chroma(chunks)
