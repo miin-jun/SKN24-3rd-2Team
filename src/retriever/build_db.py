@@ -13,6 +13,39 @@ from collections import defaultdict
 DATA_DIR = "/workspace/data/processed"
 VECTOR_DIR = "/workspace/SKN24-3rd-2Team/vectorstore/chroma_f1_e5"
 
+# steward_decisions.json 로드
+def load_steward_decisions() -> list[Document]:
+    with open(f"{DATA_DIR}/steward_decisions.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    docs = []
+    for i, item in enumerate(data):
+        grand_prix = item.get("grand_prix", "").strip()
+        year = item.get("year", "")
+        fact = item.get("fact", "").strip()
+        infringement = item.get("infringement", "").strip()
+        decision = item.get("decision", "").strip()
+        reason = item.get("reason", "").strip()
+
+        if not fact or not reason:
+            continue
+
+        content = (
+            f"Grand Prix: {grand_prix} {year}\n"
+            f"Fact: {fact}\n"
+            f"Infringement: {infringement}\n"
+            f"Decision: {decision}\n"
+            f"Reason: {reason}"
+        )
+
+        doc = Document(
+            page_content=content,
+            metadata={"source": item.get("source", ""), "doc_type": "steward_decision", "grand_prix": grand_prix, "year": year},
+        )
+        docs.append(doc)
+
+    return docs
+
 
 # glossary.json 로드
 def load_glossary() -> list[Document]:

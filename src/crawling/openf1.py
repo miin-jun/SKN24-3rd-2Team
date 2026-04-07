@@ -1,3 +1,9 @@
+'''
+OpenF1
+https://openf1.org/
+- team radio 제외
+'''
+
 import requests
 from datetime import datetime, timezone
 
