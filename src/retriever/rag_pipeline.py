@@ -5,12 +5,14 @@ from langchain_huggingface import HuggingFaceEmbeddings, HuggingFacePipeline
 from langchain_openai import ChatOpenAI
 from sentence_transformers import CrossEncoder
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+from peft import PeftModel
 
 hf_token = os.environ.get("HF_TOKEN")
 openai_key = os.environ.get("OPENAI_API_KEY")
 
 VECTOR_DIR = "/workspace/SKN24-3rd-2Team/vectorstore/chroma_f1_e5"
 MODEL_ID = "google/gemma-3-12b-it"
+ADAPTER_ID = "YHPark0208/SKN24_3rd_2Team"
 
 SYSTEM_MSG = """# SYSTEM RULE
 -역할: F1 스포츠 경기 전문 질의응답 시스템
@@ -52,11 +54,12 @@ def load_retriever(embedding_model):
 
 def load_llm() -> HuggingFacePipeline:
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
-    model = AutoModelForCausalLM.from_pretrained(
+    base_model = AutoModelForCausalLM.from_pretrained(
         MODEL_ID,
-        dtype=torch.bfloat16,
+        torch_dtype=torch.bfloat16,
         device_map="auto",
     )
+    model = PeftModel.from_pretrained(base_model, ADAPTER_ID)
     pipe = pipeline(
         "text-generation",
         model=model,

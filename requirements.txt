@@ -11,3 +11,7 @@ sentence-transformers
 torch
 transformers
 streamlit
+peft
+bitsandbytes
+fastapi
+uvicorn
