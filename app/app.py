@@ -581,7 +581,7 @@ else:
     st.markdown('<div class="small-fallback">For every1</div>', unsafe_allow_html=True)
 
 st.markdown(
-    '<div class="logo-title">F1을 쉽게 이해하게 하는 대화형 챗봇 </div>',
+    '<div class="logo-title">F1, 당신도 이해할 수 있습니다! </div>',
     unsafe_allow_html=True
 )
 st.markdown('</div>', unsafe_allow_html=True)
