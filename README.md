@@ -55,15 +55,23 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/aa967686-65d9-467e-b108-83623113669e" width="300" alt="image1" /><br>
-      <sub>출처: <a href="https://v.daum.net/v/HQc9YRwaEp">[http://gpkorea.com/](https://v.daum.net/v/HQc9YRwaEp)</a></sub>
+      <img src="https://github.com/user-attachments/assets/aa967686-65d9-467e-b108-83623113669e" width="400" alt="image1" /><br>
+      <sub>출처: <a href="https://v.daum.net/v/HQc9YRwaEp">gpkorea 기사</a></sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/0902f0e4-9a85-4c1f-8b0d-7ddb61e1639b" width="380" alt="image2" /><br>
-      <sub>출처: <a href="https://www.chosun.com/sports/sports_general/2026/03/05/INS5ESTOJBEW3CJ3EC3RFBRPXY/">[www.chosun.com](https://www.chosun.com/sports/sports_general/2026/03/05/INS5ESTOJBEW3CJ3EC3RFBRPXY/)/</a></sub>
+      <img src="https://github.com/user-attachments/assets/aef35137-807a-4161-a7e8-7f99e2243cd8" width="700" alt="image3" /><br>
+      <sub>출처: <a href="https://digitalchosun.dizzo.com/site/data/html_dir/2026/03/06/2026030680090.html"> 디지틀조선일보 기사</a></sub>
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0902f0e4-9a85-4c1f-8b0d-7ddb61e1639b" width="600" alt="image2" /><br>
+  <sub>출처: <a href="https://www.chosun.com/sports/sports_general/2026/03/05/INS5ESTOJBEW3CJ3EC3RFBRPXY/">조선일보 기사</a></sub>
+</p>
+
 
 - 프로젝트 목표
   > F1 입문자가 자주 궁금해하는 용어, 규정, 경기 관련 정보를 한국어로 쉽고 정확하게 제공하는 챗봇을 구현하는 것을 목표로 한다. 이를 위해 F1 규정집과 용어집을 비롯해 플래그, 타이어, 역사, F1 개요 등의 데이터를 RAG 기반으로 구축하고, 변화하는 규정과 다양한 질문 유형에 유연하게 대응할 수 있는 질의응답 시스템을 개발
@@ -119,7 +127,7 @@
 
 <img width="1083" height="605" alt="image" src="https://github.com/user-attachments/assets/00cc105a-fd82-4f72-bbd8-6cefe9f871db" />
 
-
+**데이터 출처**
 
 > F1 규정: https://www.fia.com/regulation/category/110?utm_source=chatgpt.com
 
@@ -138,6 +146,11 @@
 ### 9. 테스트 계획 및 결과 보고서
 
 ### 10. 진행 과정 중 프로그램 개선 노력
+
+- 규정집 원문을 단순 검색하던 방식에서 벗어나, 조문·주제별로 구조화된 RAG 데이터셋을 구축하여 검색 정확도 향상
+- 질문 유형(규정, 실시간 경기, 과거 기록, 특정 라운드 기록)에 따라 적절한 도구를 선택하도록 에이전트 구조를 설계해 응답 품질을 개선
+- 매년 개정되는 F1 규정의 특성을 반영해, 공식 규정집 기반 데이터를 업데이트 가능한 구조로 설계하여 유지보수성 향상
+- 입문자도 이해할 수 있도록 한국어 설명형 답변 중심으로 프롬프트를 개선
 
 ### 11. 수행결과(테스트/시연 페이지)
 
