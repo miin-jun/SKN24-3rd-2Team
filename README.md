@@ -13,19 +13,19 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="https://github.com/user-attachments/assets/24b9288e-5d3d-41e0-9b78-ee5214c653e3" width="180" height="180" alt="mj" />
+      <img src="./assets/images/mj.png" width="180" height="180" alt="mj" />
     </td>
     <td align="center" width="200">
-      <img src="https://github.com/user-attachments/assets/a5cf5b01-3c93-4719-b907-b79e6e3d7ee2" width="180" height="180" alt="yj" />
+      <img src="./assets/images/yj.png" width="180" height="180" alt="yj" />
     </td>
     <td align="center" width="200">
-      <img src="https://github.com/user-attachments/assets/a15dfb04-c7c8-4c4c-b532-68c50153ffe2" width="180" height="180" alt="yh" />
+      <img src="./assets/images/yh.png" width="180" height="180" alt="yh" />
     </td>
     <td align="center" width="200">
-      <img src="https://github.com/user-attachments/assets/683d37b4-e6ab-4f17-a8c3-c2182adfa727" width="180" height="180" alt="yw" />
+      <img src="./assets/images/yw.png" width="180" height="180" alt="yw" />
     </td>
     <td align="center" width="200">
-      <img src="https://github.com/user-attachments/assets/734e509a-b2b9-42c0-b1e4-fec06463391c" width="180" height="180" alt="hj" />
+      <img src="./assets/images/hj.png" width="180" height="180" alt="hj" />
     </td>
   </tr>
   <tr>
