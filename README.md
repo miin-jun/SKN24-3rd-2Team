@@ -209,7 +209,43 @@
 
 ---
 
-### 9️⃣ DB 연동 구현 코드 (링크만)
+### 9️⃣ DB 연동 구현 코드
+
+<details>
+<summary><b>🗄️ Database Connection (build_db.py)</b></summary>
+
+> ChromaDB 연동 구현 코드 
+> 전체 코드는 [여기](https://github.com/miin-jun/SKN24-3rd-2Team/blob/main/src/retriever/build_db.py)에서 확인하실 수 있습니다.
+
+```python
+
+# ChromaDB 연동/벡터스토어 생성
+def save_to_chroma(chunks: list[Document]):
+    # 임베딩 모델 설정
+    embedding_model = HuggingFaceEmbeddings(
+        model_name="intfloat/multilingual-e5-large",
+        model_kwargs={"device": "cuda"},
+        encode_kwargs={
+            "normalize_embeddings": True, 
+            "prompt": "passage: "
+            },
+    )
+    # 기존 벡터 DB 초기화/신규 생성
+    if os.path.exists(VECTOR_DIR):
+        shutil.rmtree(VECTOR_DIR)
+    os.makedirs(VECTOR_DIR, exist_ok=True)
+
+    # Chroma DB 구축
+    vector_store = Chroma.from_documents(
+        chunks,
+        embedding=embedding_model,
+        persist_directory=VECTOR_DIR,
+        collection_name="f1_rules_e5",
+    )
+    print(f"벡터 저장 완료: {vector_store._collection.count()}개 청크")
+
+```
+</details>
 
 ---
 
