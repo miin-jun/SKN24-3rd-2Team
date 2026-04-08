@@ -6,7 +6,7 @@
 </p>
 
 ### 1. 팀 소개
-  > F1에 익숙한 시선 1개와 낯선 시선 4개가 만나, 어렵고 복잡한 정보를 쉽고 친절하게 🔃새로고침하는 팀 **F5**❗
+  > F1에 익숙한 시선 1개와 낯선 시선 4개가 만나, 어렵고 복잡한 정보를 쉽고 친절하게 🔃새로고침하는 팀 **F5** 입니다❗
   
 <table>
   <tr>
@@ -53,9 +53,9 @@
 ### 2. 프로젝트 개요
 
 - 프로젝트 소개
-  > F1 입문자를 위해 어려운 용어와 복잡한 규정을 쉽게 설명해주는 한국어 기반 F1 전문 챗봇입니다. 사용자의 질문 의도에 따라 규정집, 용어집, 과거 기록, 라운드별 경기 정보 등을 바탕으로 적절한 답변을 제공할 수 있도록 LLM 챗봇 구현
+  > F1 입문자를 위해 어려운 용어와 복잡한 규정을 쉽게 설명해주는 한국어 기반 F1 전문 챗봇입니다. 사용자의 질문 의도에 따라 규정집, 용어집, 과거 기록, 라운드별 경기 정보 등을 바탕으로 적절한 답변을 제공할 수 있도록 LLM 챗봇을 구현했습니다.
 - 프로젝트 필요성(배경)
-  > 최근 국내에서 F1 경기에 대한 관심과 팬 유입이 증가하고 있지만, 입문자가 처음 접하기에는 F1의 용어와 규정이 매우 어렵고 복잡하다. 특히 규정은 매년 개정되기 때문에 단순 검색만으로는 정확한 정보를 이해하기 어렵다. 이에 따라, 입문자도 쉽고 빠르게 F1 정보를 이해할 수 있도록 돕는 챗봇의 필요성을 느껴 본 프로젝트를 기획
+  > 최근 국내에서 F1 경기에 대한 관심과 팬 유입이 증가하고 있지만, 입문자가 처음 접하기에는 F1의 용어와 규정이 매우 어렵고 복잡합니다. 특히 규정은 매년 개정되기 때문에 단순 검색만으로는 정확한 정보를 이해하기 어렵습니다. 이에 따라, 입문자도 쉽고 빠르게 F1 정보를 이해할 수 있도록 돕는 챗봇의 필요성을 느껴 본 프로젝트를 기획하게 되었습니다.
 <table>
   <tr>
     <td align="center" width="50%">
@@ -78,7 +78,7 @@
 
 
 - 프로젝트 목표
-  > F1 입문자가 자주 궁금해하는 용어, 규정, 경기 관련 정보를 한국어로 쉽고 정확하게 제공하는 챗봇을 구현하는 것을 목표로 한다. 이를 위해 F1 규정집과 용어집을 비롯해 플래그, 타이어, 역사, F1 개요 등의 데이터를 RAG 기반으로 구축하고, 변화하는 규정과 다양한 질문 유형에 유연하게 대응할 수 있는 질의응답 시스템을 개발
+  > F1 입문자가 자주 궁금해하는 용어, 규정, 경기 관련 정보를 한국어로 쉽고 정확하게 제공하는 챗봇을 구현하는 것을 목표로 합니다. 이를 위해 F1 규정집과 용어집을 비롯해 플래그, 타이어, 역사, F1 개요 등의 데이터를 RAG 기반으로 구축하고, 변화하는 규정과 다양한 질문 유형에 유연하게 대응할 수 있는 질의응답 시스템을 개발하고자 합니다.
 
 ### 3. 기술 스택 & 사용한 모델 (임베딩 모델, LLM)
 
@@ -95,7 +95,7 @@
 
 | 분류 | 모델 |
 |---|---|
-| Embedding | ![intfloat/multilingual-e5-large](https://img.shields.io/badge/intfloat%2Fmultilingual--e5--large-FF6600?style=for-the-badge) ![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-FF6600?style=for-the-badge) |
+| Embedding | ![intfloat/multilingual-e5-large](https://img.shields.io/badge/intfloat%2Fmultilingual--e5--large-FF6600?style=for-the-badge)
 | LLM | ![google/gemma-3-12b-it](https://img.shields.io/badge/google%2Fgemma--3--12b--it-FF6600?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-FF6600?style=for-the-badge) |
 | Re-ranker | ![CrossEncoder](https://img.shields.io/badge/CrossEncoder-FF6600?style=for-the-badge) |
 
@@ -113,7 +113,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/2afe17bf-9d5a-44ee-8f37-dc7a8c3e37ed" width="450" alt="data1" />
+      <img src="https://github.com/user-attachments/assets/1b514ecc-ddbf-40ca-bb75-0536f786302d" width="450" alt="data1" />
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/user-attachments/assets/85d81d71-2e98-4e20-aa55-be2e57b821cc" width="450" alt="data2" />
@@ -121,15 +121,37 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/f5ceeaf4-de67-41ce-9aa6-125039c04c87" width="450" alt="data3" />
+      <img src="https://github.com/user-attachments/assets/f7b2b2fb-9dba-4eb6-b5b5-eb9e1973bb41" width="450" alt="data3" />
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/user-attachments/assets/d7e15075-ba65-41ea-855d-af7ae002b0ae" width="450" alt="data4" />
     </td>
   </tr>
 </table>
+<img width="1263" height="538" alt="image" src="https://github.com/user-attachments/assets/7ba40e16-c348-457d-8479-87d1ce6fce75" />
 
-<img width="1083" height="605" alt="image" src="https://github.com/user-attachments/assets/00cc105a-fd82-4f72-bbd8-6cefe9f871db" />
+**데이터 개수**
+| 데이터셋 | 항목 수 |
+|---|---:|
+| section_a_general_provisions | 171 |
+| section_b_sporting | 294 |
+| section_c_technical | 651 |
+| section_d_financial_f1_teams | 202 |
+| section_f_operational | 76 |
+| f1_glossary | 224 |
+| f1_circuits | 78 |
+| f1_flags_wiki | 25 |
+| f1_history_wiki | 23 |
+| f1_intro_wiki | 36 |
+| pirelli_f1_tires | 8 |
+| steward_decisions | 16 |
+| **총 데이터 항목 수** | **1,804** |
+
+**Fine-tune 데이터 개수**
+
+| 항목 | 개수 |
+|---|---:|
+| Fine-tune된 데이터 개수 | 15,260 |
 
 **데이터 출처**
 
@@ -144,6 +166,10 @@
 > F1 개요: https://en.wikipedia.org/wiki/Formula_One
 
 > F1 깃발: https://en.wikipedia.org/wiki/Racing_flags
+
+> Jolpi.ca F1 API: https://api.jolpi.ca/ergast/
+
+> openf1 API: https://openf1.org/
 
 ### 8. DB 연동 구현 코드 (링크만)
 
