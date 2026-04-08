@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/ca9539ed-dded-4755-b088-43c4e4bcb944" width="500" height="300" alt="image" />
 </p>
 
-### 0️⃣ 팀 소개 
+### 1. 팀 소개 
   > F1에 익숙한 시선 1개와 낯선 시선 4개가 만나, 어렵고 복잡한 정보를 쉽고 친절하게 🔃새로고침하는 팀 **F5** 입니다❗
   
 <table>
@@ -61,7 +61,7 @@
 
 ---
 
-### 1️⃣ 프로젝트 개요
+### 2. 프로젝트 개요
 
 - 프로젝트 소개
   > F1 입문자를 위해 어려운 용어와 복잡한 규정을 쉽게 설명해주는 **한국어 기반 F1 전문 챗봇**입니다.  
@@ -70,6 +70,7 @@
 - 프로젝트 필요성(배경)
   > 최근 국내에서 F1 경기에 대한 관심과 팬 유입이 증가하고 있지만, 입문자가 처음 접하기에는 F1의 용어와 규정이 매우 어렵고 복잡합니다.  
   > 특히, 규정은 매년 개정되기 때문에 단순 검색만으로는 정확한 정보를 이해하기 어렵습니다.  
+  > 쿠팡플레이의 윤재수 F1 해설위원 또한 "국내엔 체계적으로 설명해 주는 자료나 교육 프로그램이 거의 없어 진입장벽이 높다"고 지적한 바 있습니다. ([출처](https://v.daum.net/v/xKESU0PKEy))  
   > 이에 따라, 입문자도 쉽고 빠르게 F1 정보를 이해할 수 있도록 돕는 챗봇의 필요성을 느껴 본 프로젝트를 기획하게 되었습니다.  
 
 <table>
@@ -99,7 +100,7 @@
 
 ---
 
-### 2️⃣ 기술 스택 & 사용한 모델 (임베딩 모델, LLM)
+### 3. 기술 스택 & 사용한 모델 (임베딩 모델, LLM)
 
 | 분류 | 기술/도구 |
 |---|---|
@@ -108,6 +109,7 @@
 | Framework & API | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
 | VectorDB | ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A31F4?style=for-the-badge&logo=databricks&logoColor=white) |
 | Data Scraping | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white) |
+| Fine-tuning | ![PEFT](https://img.shields.io/badge/PEFT-FF6F00?style=for-the-badge) |
 | Infrastructure | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Runpod](https://img.shields.io/badge/Runpod-6C47FF?style=for-the-badge&logo=runpod&logoColor=white) |
 | Demo & UI | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
 | Collaboration | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
@@ -119,37 +121,37 @@
 | Re-ranker | ![CrossEncoder](https://img.shields.io/badge/CrossEncoder-00BFA5?style=for-the-badge&logo=scikitlearn&logoColor=white) |
 
 
----
 
-### 3️⃣ LLM 모델 선택 이유
+####  LLM 모델 선택 이유
   > 1, 2차 테스트 결과, Qwen 계열 대비 gemma 모델이 할루시네이션이 적고, 언어 일관성 및 문장 구조가 안정적이었습니다.  
   최종적으로, 파라미터가 더 큰 **gemma-3-12b**를 선택하여 응답 품질을 높였습니다.
 
-### 4️⃣ 임베딩 모델 선정 이유
-  > OpenAI 임베딩 모델(small/large) 테스트 결과, 사용자 쿼리 요청 시마다 API 비용이 발생하는 문제와 "패독", "피트레인" 등 한글화된 F1 용어 인식 한계로 인해 다국어 특화 오픈소스 모델인 intfloat/multilingual-e5-large로 전환했습니다.  
-  > 단, 한글 쿼리의 정확한 벡터 검색을 위해 번역 단계에서는 **GPT-4o-mini**를 활용하여 비용을 최소화하면서도 번역 품질을 확보했습니다.
-
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/7fecca53-9476-46bc-acf7-8b1243301153" />
+
+
+####  임베딩 모델 선정 이유
+  > OpenAI 임베딩 모델(text-embedding-3-small/large) 테스트 결과, 사용자 쿼리 요청 시마다 API 비용이 발생하는 문제와 "패독", "피트레인", "피트스탑" 등 한글화된 F1 용어 인식 한계로 인해 다국어 특화 오픈소스 모델인 **intfloat/multilingual-e5-large**로 전환했습니다.  
+  > 단, 한글 쿼리의 정확한 벡터 검색을 위해 번역 단계에서는 **GPT-4o-mini**를 활용하여 비용을 최소화하면서도 번역 품질을 확보했습니다.
 
 ---
 
-### 5️⃣ 시스템 아키텍처
+### 4. 시스템 아키텍처
 <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/1724827c-0138-4f38-b015-36a81ff8e4ec" />
 
 ---
 
-### 6️⃣ WBS
+### 5. WBS
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/4cadbbaa-3030-42af-b820-87f973ea7ec9" />
 
 ---
 
-### 7️⃣ 요구사항 명세서
+### 6. 요구사항 명세서
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/9d3eb164-618d-41c4-a546-cfe693bc018f" />
 
 
 ---
 
-### 8️⃣ 수집한 데이터 및 전처리 요약
+### 7. 수집한 데이터 및 전처리 요약
 
 <table>
   <tr>
@@ -171,8 +173,10 @@
 </table>
 <img width="1263" height="538" alt="image" src="https://github.com/user-attachments/assets/7ba40e16-c348-457d-8479-87d1ce6fce75" />
 
+
+
 **데이터 개수**
-| 데이터셋 | 항목 수 |
+| 파일명 | 항목 수 |
 |---|---:|
 | section_a_general_provisions | 171 |
 | section_b_sporting | 294 |
@@ -186,16 +190,26 @@
 | f1_intro_wiki | 36 |
 | pirelli_f1_tires | 8 |
 | steward_decisions | 16 |
-| **총 데이터 항목 수** | **1,804 건** |
+| **합계** | **1,804 건** |
+> 규정 데이터(section_*)는 조항 단위, 그 외 데이터는 JSON 항목 단위로 집계
+>
+
 
 **Finetune 데이터 개수**
-
 | 항목 | 개수 |
 |---|---:|
+| section_a_general_provisions + section_b_sporting | ? |
+| section_c_technical | ? |
+| section_d_financial_f1_teams + section_f_operational| ? |
+| f1_glossary | ? |
+| f1_circuits | ? |
+| f1_flags_wiki | ? |
+| f1_history_wiki | ? |
+| f1_intro_wiki | ? |
+| pirelli_f1_tires | ? |
 | Finetune된 데이터 개수 | 15,260 건 |
 
 **데이터 출처**
-
 | 출처 | url |
 |---|:---|
 | F1 규정 | https://www.fia.com/regulation/category/110 | 
@@ -206,10 +220,11 @@
 | F1 깃발 | https://en.wikipedia.org/wiki/Racing_flags |  
 | Jolpi.ca F1 API | https://api.jolpi.ca/ergast/ |  
 | openf1 API | https://openf1.org/ |
+>
 
 ---
 
-### 9️⃣ DB 연동 구현 코드
+### 8. DB 연동 구현 코드
 
 <details>
 <summary><b>🗄️ Database Connection (build_db.py)</b></summary>
@@ -249,7 +264,7 @@ def save_to_chroma(chunks: list[Document]):
 
 ---
 
-### 🔟 테스트 계획 및 결과 보고서
+### 9. 테스트 계획 및 결과 보고서
 
 #### 1) 테스트 개요
 
@@ -322,31 +337,31 @@ def save_to_chroma(chunks: list[Document]):
 
 ---
 
-### 📒 진행 과정 중 프로그램 개선 노력
+### 10. 진행 과정 중 프로그램 개선 노력
 
-#### 1. 프롬프트 엔지니어링
+#### 1. 프롬프트 엔지니어링 - 이거 전후 비교 사진이나 텍스트가 있어야 할 것 같음(구체적 예시 필요)
 - F1 규정 원문은 표현이 복잡하고 전문 용어가 많아, 그대로 답변할 경우 입문자가 이해하기 어려운 문제가 있었습니다.
 - 이를 개선하기 위해 한국어 설명형 답변 중심으로 프롬프트를 설계하여, 규정의 핵심 내용을 쉽고 자연스럽게 풀어서 설명할 수 있도록 개선했습니다.
 
-#### 2. Q 데이터셋
+#### 2. Q 데이터셋 - 이게 뭔지 모르겠음??????
 - 규정집 원문만 검색할 경우 질문과 직접 관련 없는 조항이 함께 검색되어, 답변 정확도가 떨어지는 문제가 있었습니다.
 - 이를 보완하기 위해 실제 사용자 관점에서 자주 나올 수 있는 질문 형태의 Q 데이터셋을 구축하고, 사용자의 질의와 가장 유사한 질문을 우선적으로 검색할 수 있도록 하여 검색 성능을 높였습니다.
 
-#### 3. 에이전트 구조
+#### 3. 에이전트 구조 - 이건 별로 필요 없을 것 같은데 생각 좀
 - 모든 질문을 하나의 방식으로 처리할 경우, 규정 질의와 경기 결과 질의를 동일한 흐름으로 다루게 되어 응답 품질이 불안정해지는 문제가 있었습니다.
 - 이에 따라 질문 유형을 규정, 실시간 경기 결과, 과거 기록, 특정 라운드 기록 등으로 구분하고, 각 질문에 맞는 도구를 선택하도록 에이전트 구조를 설계하여 응답 품질을 개선했습니다.
 
-#### 4. 파인 튜닝
+#### 4. 파인 튜닝 (이 부분 자세하게 설명하기 - QLoRA 적용, 데이터셋 생성 방식, 필터링 방식 등등 언급하기
 - 사용자의 질문은 규정집 문장 그대로가 아니라 일상적인 표현으로 입력되는 경우가 많아, 단순 검색만으로는 관련 조항을 정확히 찾기 어려운 문제가 있었습니다.
 - 이를 해결하기 위해 규정 기반 질문-답변 데이터를 활용해 모델을 파인튜닝함으로써, 자연스러운 사용자 질문에도 보다 적절한 답변을 생성할 수 있도록 개선했습니다.
 
 ---
 
-### 📜 수행결과(테스트/시연 페이지)
+### 11. 수행결과(테스트/시연 페이지)
 
 ---
 
-### 📒 한 줄 회고
+### 12. 한 줄 회고
 - 김민준
   > 안녕하세요
 
