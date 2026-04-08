@@ -56,7 +56,7 @@ def load_llm() -> HuggingFacePipeline:
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
     base_model = AutoModelForCausalLM.from_pretrained(
         MODEL_ID,
-        torch_dtype=torch.bfloat16,
+        dtype=torch.bfloat16,
         device_map="auto",
     )
     model = PeftModel.from_pretrained(base_model, ADAPTER_ID)
