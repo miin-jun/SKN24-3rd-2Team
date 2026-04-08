@@ -1,7 +1,7 @@
 # SK네트웍스 Family AI 캠프 24기 3차 프로젝트
 ## 🏎️ F1을 쉽게！For every1
 ### 1. 팀 소개
-  > F1에 익숙한 시선 1개와 낯선 시선 4개가 만나, 어렵고 복잡한 정보를 쉽고 친절하게 🔃새로고침하는 팀 **F5**입니다.
+  > F1에 익숙한 시선 1개와 낯선 시선 4개가 만나, 어렵고 복잡한 정보를 쉽고 친절하게 🔃새로고침하는 팀 **F5**❗
   
 <table>
   <tr>
@@ -46,10 +46,10 @@
 
 
 ### 2. 프로젝트 개요
-- 프로젝트 명
-  > F1을 쉽게! For every1
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ca9539ed-dded-4755-b088-43c4e4bcb944" />
+
 - 프로젝트 소개
-  > F1 입문자를 위해 어려운 용어와 복잡한 규정을 쉽게 설명해주는 한국어 기반 F1 전문 챗봇입니다. 사용자의 질문 의도에 따라 규정집, 용어집, 과거 기록, 라운드별 경기 정보 등을 바탕으로 적절한 답변을 제공할 수 있도록 구현하였습니다.
+  > F1 입문자를 위해 어려운 용어와 복잡한 규정을 쉽게 설명해주는 한국어 기반 F1 전문 챗봇입니다. 사용자의 질문 의도에 따라 규정집, 용어집, 과거 기록, 라운드별 경기 정보 등을 바탕으로 적절한 답변을 제공할 수 있도록 LLM 챗봇 구현
 - 프로젝트 필요성(배경)
   > 최근 국내에서 F1 경기에 대한 관심과 팬 유입이 증가하고 있지만, 입문자가 처음 접하기에는 F1의 용어와 규정이 매우 어렵고 복잡합니다. 특히 규정은 매년 개정되기 때문에 단순 검색만으로는 정확한 정보를 이해하기 어렵습니다. 이에 따라, 입문자도 쉽고 빠르게 F1 정보를 이해할 수 있도록 돕는 챗봇의 필요성을 느껴 본 프로젝트를 기획하였습니다.
 - 프로젝트 목표
@@ -62,7 +62,7 @@
 | 언어 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | LLM 프레임워크 | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge) |
 | 모델 / 추론 | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-| 벡터DB / 검색 | ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A31F4?style=for-the-badge) |
+| VectorDB / 검색 | ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A31F4?style=for-the-badge) |
 | 웹 파싱 | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge) |
 | 개발 환경 | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Runpod](https://img.shields.io/badge/Runpod-6C47FF?style=for-the-badge) |
 | UI | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
@@ -70,7 +70,7 @@
 
 | 분류 | 모델 |
 |---|---|
-| Embedding 모델 | ![intfloat/multilingual-e5-large](https://img.shields.io/badge/intfloat%2Fmultilingual--e5--large-FF6600?style=for-the-badge) ![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-FF6600?style=for-the-badge) |
+| Embedding | ![intfloat/multilingual-e5-large](https://img.shields.io/badge/intfloat%2Fmultilingual--e5--large-FF6600?style=for-the-badge) ![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-FF6600?style=for-the-badge) |
 | LLM | ![google/gemma-3-12b-it](https://img.shields.io/badge/google%2Fgemma--3--12b--it-FF6600?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-FF6600?style=for-the-badge) |
 | Re-ranker | ![CrossEncoder](https://img.shields.io/badge/CrossEncoder-FF6600?style=for-the-badge) |
 
