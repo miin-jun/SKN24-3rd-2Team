@@ -345,7 +345,7 @@ else:
     st.markdown('<div class="small-fallback">For every1</div>', unsafe_allow_html=True)
 
 st.markdown(
-    '<div class="logo-title">F1을 더 쉽게 이해하는 대화형 챗봇</div>',
+    '<div class="logo-title">F1을 쉽게 이해하게 하는 대화형 챗봇 </div>',
     unsafe_allow_html=True
 )
 st.markdown('</div>', unsafe_allow_html=True)
@@ -365,7 +365,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 # 채팅
 # =========================
 for msg in st.session_state.messages:
-    avatar = "🤍" if msg["role"] == "assistant" else "🙂"
+    avatar = "🤖" if msg["role"] == "assistant" else "🙂"
     with st.chat_message(msg["role"], avatar=avatar):
         st.markdown(msg["content"])
 
