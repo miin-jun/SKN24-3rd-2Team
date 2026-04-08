@@ -71,7 +71,7 @@
 | Re-ranker | ![CrossEncoder](https://img.shields.io/badge/CrossEncoder-FF6600?style=for-the-badge) |
 
 ### 4. 시스템 아키텍처
-<img width="3594" height="4653" alt="image" src="https://github.com/user-attachments/assets/1724827c-0138-4f38-b015-36a81ff8e4ec" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/1724827c-0138-4f38-b015-36a81ff8e4ec" />
 
 ### 5. WBS
 
