@@ -8,10 +8,8 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_text_splitters import MarkdownHeaderTextSplitter
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
-from collections import defaultdict
 
 DATA_DIR = "/workspace/SKN24-3rd-2Team/data/processed"
-# DATA_DIR = "/workspace/data/processed"
 VECTOR_DIR = "/workspace/SKN24-3rd-2Team/vectorstore/chroma_f1_e5"
 
 # steward_decisions.json 로드
@@ -120,63 +118,55 @@ def load_tires() -> list[Document]:
 
 
 # 청킹 
-def get_article_group(article_str: str) -> str:
-    clean = re.sub(r'\*+', '', article_str).strip()
-    match = re.match(r'(B\d+\.\d+)', clean)
-
-    if match:
-        return match.group(1)
-    return clean
-
-
-def split_by_header(docs: list[Document]) -> list[Document]:
+def chunk_regulations(docs: list[Document], splitter) -> list[Document]:
     md_splitter = MarkdownHeaderTextSplitter(
-        headers_to_split_on=[("##", "article")],
+        headers_to_split_on=[
+            ("#", "Header_1"),
+            ("##", "Header_2"),
+            ("###", "Header_3")
+        ],
         strip_headers=False,
     )
 
-    chunks = []
+    final_chunks = []
+    
     for doc in docs:
-        for split in md_splitter.split_text(doc.page_content):
-            split.metadata.update({
-                "source": doc.metadata["source"],
-                "doc_type": "regulation",
-            })
-            chunks.append(split)
+        md_splits = md_splitter.split_text(doc.page_content)
+        
+        for split in md_splits:
+            base_metadata = doc.metadata.copy()
+            base_metadata.update(split.metadata)
 
-    return chunks
+            pattern = r'(?m)^(?=\s*(?:-\s*)?\*\*[A-Z]\d+\.\d+(?:\.\d+)*\*\*)'
+            
+            clauses = re.split(pattern, split.page_content)
+            
+            clause_docs = []
+            for clause in clauses:
+                clause = clause.strip()
+                if len(clause) < 50:
+                    continue
+                
+                clause_metadata = base_metadata.copy()
 
+                match = re.search(r'\*\*([A-Z]\d+\.\d+(?:\.\d+)*)\*\*', clause)
+                if match:
+                    clause_metadata["Clause"] = match.group(1)
+                
+                clause_docs.append(Document(page_content=clause, metadata=clause_metadata))
 
-def merge_by_article(chunks: list[Document]) -> list[Document]:
-    grouped = defaultdict(list)
-    for chunk in chunks:
-        article = chunk.metadata.get("article", "")
-        key = (chunk.metadata["source"], get_article_group(article))
-        grouped[key].append(chunk.page_content)
+            sized_chunks = splitter.split_documents(clause_docs)
+            final_chunks.extend(sized_chunks)
 
-    merged = []
-    for (source, article), contents in grouped.items():
-        text = "\n\n".join(contents)
-        doc = Document(
-            page_content=text,
-            metadata={"source": source, "doc_type": "regulation", "article": article},
-        )
-        merged.append(doc)
-
-    return merged
-
-
-def chunk_regulations(docs: list[Document], splitter) -> list[Document]:
-    header_chunks = split_by_header(docs)
-    split_chunks = splitter.split_documents(header_chunks)
-    merged = merge_by_article(split_chunks)
-    return splitter.split_documents(merged)
+    return final_chunks
 
 
 def chunk_all(glossary, other_docs, regulation_docs) -> list[Document]:
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=3000,
-        chunk_overlap=400,
+        # chunk_size=3000,
+        # chunk_overlap=400,
+        chunk_size=1500,
+        chunk_overlap=200,
         separators=["\n\n", "\n", ".", " ", ""],
     )
 
@@ -211,13 +201,17 @@ def save_to_chroma(chunks: list[Document]):
 
 
 # 코드 실행 부분
-glossary = load_glossary()
-wiki = load_wiki()
-tires = load_tires()
-regs = load_regulations()
-steward_docs = load_steward_decisions()
+if __name__ == "__main__":
+    print("문서 로딩 중...")
+    glossary = load_glossary()
+    wiki = load_wiki()
+    tires = load_tires()
+    regs = load_regulations()
+    steward_docs = load_steward_decisions()
 
-chunks = chunk_all(glossary, wiki + tires + steward_docs, regs)
-print(f"최종 chunk 수: {len(chunks)}")
+    print("청킹 진행 중...")
+    chunks = chunk_all(glossary, wiki + tires + steward_docs, regs)
+    print(f"최종 chunk 수: {len(chunks)}")
 
-save_to_chroma(chunks)
+    print("벡터 DB에 저장 중...")
+    save_to_chroma(chunks)
