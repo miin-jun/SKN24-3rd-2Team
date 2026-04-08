@@ -1,7 +1,9 @@
 # SK네트웍스 Family AI 캠프 24기 3차 프로젝트
 ## 🏎️ F1을 쉽게！For every1
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/ca9539ed-dded-4755-b088-43c4e4bcb944" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca9539ed-dded-4755-b088-43c4e4bcb944" width="500" height="300" alt="image" />
+</p>
 
 ### 1. 팀 소개
   > F1에 익숙한 시선 1개와 낯선 시선 4개가 만나, 어렵고 복잡한 정보를 쉽고 친절하게 🔃새로고침하는 팀 **F5**❗
