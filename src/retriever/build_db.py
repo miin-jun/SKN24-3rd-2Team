@@ -10,7 +10,8 @@ from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from collections import defaultdict
 
-DATA_DIR = "/workspace/data/processed"
+DATA_DIR = "/workspace/SKN24-3rd-2Team/data/processed"
+# DATA_DIR = "/workspace/data/processed"
 VECTOR_DIR = "/workspace/SKN24-3rd-2Team/vectorstore/chroma_f1_e5"
 
 # steward_decisions.json 로드

@@ -47,7 +47,7 @@ def load_retriever(embedding_model):
         embedding_function=embedding_model,
         collection_name="f1_rules_e5",
     )
-    return vector_store.as_retriever(search_type="similarity", search_kwargs={"k": 10})
+    return vector_store.as_retriever(search_type="similarity", search_kwargs={"k": 5}) # 수정10 -> 5 
 
 
 def load_llm() -> HuggingFacePipeline:
@@ -62,6 +62,7 @@ def load_llm() -> HuggingFacePipeline:
         model=model,
         tokenizer=tokenizer,
         max_new_tokens=512,
+        max_length=None, # 추가
         temperature=0.1,
         do_sample=True,
         return_full_text=False,
@@ -101,15 +102,20 @@ def format_docs_with_source(docs): #(추가)
 
 
 def rag_invoke(query: str) -> dict:
-    translated = translator.invoke(
-        f"Translate to English for F1 regulation search, keep technical terms: {query}"
+    translated = translator.invoke(f"""
+    Translate the following question to English as a natural search query for FIA F1 regulation documents. 
+    Keep technical terms in English: {query}
+    """
+        # f"Translate to English for F1 regulation search, keep technical terms: {query}"
     ).content
+    print(f"[번역] {translated}")  # 영어 번역 확인
 
     retrieved = retriever.invoke("query: " + translated)
 
     pairs = [(translated, doc.page_content) for doc in retrieved]
     scores = reranker.predict(pairs)
     reranked = [doc for _, doc in sorted(zip(scores, retrieved), reverse=True)]
+    reranked = reranked[:3] # 추가
 
     # context = "\n\n".join(doc.page_content for doc in reranked)
     context = format_docs_with_source(reranked)
