@@ -40,12 +40,22 @@
     <td align="center" width="200">데이터 전처리<br>파인튜닝 / Streamlit 구현</td>
     <td align="center" width="200">아키텍처 설계<br>Agent 구현</td>
   </tr>
-  <tr>
-    <td align="center" width="200"><a href="https://github.com/miin-jun">miin-jun</a></td>
-    <td align="center" width="200"><a href="https://github.com/shortcut-2">youjin</a></td>
-    <td align="center" width="200"><a href="https://github.com/aprkaos56">aprkaos56</a></td>
-    <td align="center" width="200"><a href="https://github.com/Yunu-Jeon">Yunu-Jeon</a></td>
-    <td align="center" width="200"><a href="https://github.com/lifeisgoodlg">lifeisgoodlg</a></td>
+<tr>
+    <td align="center" width="200">
+      <a href="https://github.com/miin-jun"><img src="https://img.shields.io/badge/miin--jun-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/shortcut-2"><img src="https://img.shields.io/badge/youjin-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/aprkaos56"><img src="https://img.shields.io/badge/aprkaos56-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/Yunu-Jeon"><img src="https://img.shields.io/badge/Yunu--Jeon-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/lifeisgoodlg"><img src="https://img.shields.io/badge/lifeisgoodlg-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    </td>
   </tr>
 </table>
 
