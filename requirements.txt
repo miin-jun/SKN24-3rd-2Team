@@ -10,3 +10,4 @@ langchain-openai
 sentence-transformers
 torch
 transformers
+streamlit
