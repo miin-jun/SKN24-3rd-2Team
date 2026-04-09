@@ -146,8 +146,7 @@
 ---
 
 ## 6. 요구사항 명세서
-<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/9d3eb164-618d-41c4-a546-cfe693bc018f" />
-
+<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/8549e3a9-4264-44cd-9aa6-aa4b3dce82c0" />
 
 ---
 
@@ -426,7 +425,7 @@ def save_to_chroma(chunks: list[Document]):
 ## 11. 수행결과
 
 <img width="2852" height="1051" alt="image" src="https://github.com/user-attachments/assets/9d7eb9a6-4dcf-45fe-b951-85dda5119800" />
-<img width="1086" height="352" alt="image" src="https://github.com/user-attachments/assets/5298f57a-41aa-4820-8090-27a6b8c7c48f" />
+<img width="1610" height="906" alt="image" src="https://github.com/user-attachments/assets/ff6ad80b-1e1f-4d92-a12f-45cc2212d76b" />
 
 ---
 
@@ -435,10 +434,10 @@ def save_to_chroma(chunks: list[Document]):
   > 안녕하세요
 
 - 김유진
-  > 안녕하세요
+  > 이전 프로젝트보다 초기 단계에서 데이터 구조를 좀 더 이해하려 노력했습니다. 그 결과, 금번 프로젝트의 데이터를 PDF→Markdown으로 전처리하는 방식을 제안, 데이터 손실을 최소화하여 RAG 답변 정확도를 높였습니다. 팀원들과 아키텍처와 기능에 대해서 충분히 공유했다고 생각했으나, 진행하며 팀원 간 아키텍처 이해도가 달라 재작업이 발생했습니다. 차후 프로젝트에서는 요구사항 명세서와 WBS를 시작 전 확정하고, 매일 스크럼 하는 방식을 통해 명료한 커뮤니케이션으로 프로젝트의 방향성을 명확히 설정하겠습니다.
 
 - 박영훈
-  > 안녕하세요
+  > 이번 프로젝트를 통해 프롬프트 설계가 챗봇의 답변 품질을 결정하는 중요한 요소임을 다시 한번 체감할 수 있었습니다. 특히 사용자 친화적인 챗봇 구현을 목표로 하면서, “초보자도 이해하기 쉽게 설명”, “답변은 2~4문장으로 구성”과 같은 세밀한 조건 설정이 필요하다는 점을 재차 확인했습니다. 추후에는 사용자의 관점에서 요구를 더욱 구체적으로 파악하고, 이에 맞는 프롬프트를 설계하는 과정이 중요할 것이라고 생각합니다.
 
 - 전윤우
   > 안녕하세요
