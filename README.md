@@ -190,7 +190,7 @@
 | f1_intro_wiki | 36 |
 | pirelli_f1_tires | 8 |
 | steward_decisions | 16 |
-| **합계** | **1,804 건** |
+| **합계** | **1,804** |
 > 규정 데이터(section_*)는 조항 단위, 그 외 데이터는 JSON 항목 단위로 집계
 >
 
@@ -198,16 +198,13 @@
 **Finetune 데이터 개수**
 | 항목 | 개수 |
 |---|---:|
-| section_a_general_provisions + section_b_sporting | ? |
-| section_c_technical | ? |
-| section_d_financial_f1_teams + section_f_operational| ? |
-| f1_glossary | ? |
-| f1_circuits | ? |
-| f1_flags_wiki | ? |
-| f1_history_wiki | ? |
-| f1_intro_wiki | ? |
-| pirelli_f1_tires | ? |
-| Finetune된 데이터 개수 | 15,260 건 |
+| section_a_general_provisions + section_b_sporting | 3,502 |
+| section_c_technical | 4,115 |
+| section_d_financial_f1_teams + section_f_operational| 895 |
+| f1_glossary + f1_history_wiki | 1,570 |
+| f1_flags + pirelli_f1_tires + f1_intro | 1,449 |
+| jolpi_ca | 3,729 |
+| Finetune된 데이터 개수 | 15,260 |
 
 **데이터 출처**
 | 출처 | url |
