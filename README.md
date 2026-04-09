@@ -198,8 +198,8 @@
 | Wikipedia | f1_flags_wiki | 25 |
 | Wikipedia | f1_history_wiki | 23 |
 | Wikipedia | f1_intro_wiki | 36 |
-| 해당 사이트 | pirelli_f1_tires | 8 |
-| 해당 사이트 | steward_decisions | 16 |
+| Pirelli | pirelli_f1_tires | 8 |
+| FiA | steward_decisions | 16 |
 || **합계** | **1,804** |
 > 규정 데이터(section_*)는 조항 단위, 그 외 데이터는 JSON 항목 단위로 집계
 
