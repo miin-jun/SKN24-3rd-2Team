@@ -10,7 +10,7 @@
 {"messages": [{"role": "user", "content": "FIA 국제 스포츠 규칙을 따르는 대회에서 흰색 깃발은 무엇을 뜻하나요?"}, {"role": "assistant", "content": "FIA 국제 스포츠 규칙을 따르는 대회에서는 흰색 깃발이 공식 차량(구급차, 소방차 등)이나 정상 속도 이하로 주행하는 경주차가 해당 구간에 있음을 알리는 신호입니다."}]}
 {"messages": [{"role": "user", "content": "인디카에서 정지된 흰색 깃발과 흔드는 흰색 깃발의 의미는 어떻게 다른가요?"}, {"role": "assistant", "content": "인디카에서 정지된 흰색 깃발은 차량들이 전체 속도의 3분의 1 이상으로 움직이고 있음을 의미하고, 흰색 깃발을 흔들면 차량들이 3분의 1 이하 속도로 움직이고 있음을 나타냅니다."}]}
 {"messages": [{"role": "user", "content": "흰색 깃발이 경주 중에 마지막 랩을 알리는 깃발이라는 말은 항상 맞나요?"}, {"role": "assistant", "content": "아니요, 흰색 깃발이 마지막 랩 신호인 경우는 미국 모터스포츠, 특히 NASCAR, 인디카 등에서만 그렇습니다. 다른 시리즈나 국제 대회에서는 흰색 깃발이 느린 차량이나 공식 차량을 알리는 의미로 사용됩니다."}]}
-{"messages": [{"role": "user", "content": "F1에서 'Zeltweg'는 무엇을 의미하나요?"}, {"role": "assistant", "content": "Zeltweg는 오스트리아의 슈타이어마르크 지역에 위치한 포뮬러 1 경기 서킷을 뜻합니다. 이곳에서 F1 경기가 열릴 수 있는 트랙으로 사용됩니다."}]}
+{"messages": [{"role": "user", "content": " "}, {"role": "assistant", "content": "Zeltweg는 오스트리아의 슈타이어마르크 지역에 위치한 포뮬러 1 경기 서킷을 뜻합니다. 이곳에서 F1 경기가 열릴 수 있는 트랙으로 사용됩니다."}]}
 {"messages": [{"role": "user", "content": "Zeltweg 서킷에 대해 간단히 알려줄 수 있나요?"}, {"role": "assistant", "content": "Zeltweg는 오스트리아 슈타이어마르크에 위치한 포뮬러 1 서킷입니다. 경기 장소로 사용되는 트랙이고, 정확한 좌표는 위도 47.2039, 경도 14.7478입니다."}]}
 {"messages": [{"role": "user", "content": "Zeltweg 서킷은 어느 나라에 있나요?"}, {"role": "assistant", "content": "Zeltweg 서킷은 오스트리아에 위치해 있습니다."}]}
 {"messages": [{"role": "user", "content": "Zeltweg 서킷은 어떤 지역에 있나요?"}, {"role": "assistant", "content": "Zeltweg 서킷은 오스트리아 내 슈타이어마르크 지역에 있습니다."}]}
